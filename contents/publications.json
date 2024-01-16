@@ -1,0 +1,268 @@
+{
+
+	"International Conference & Journal Papers": [
+		{
+			"title": "Evaluation of Drag-and-Drop Task in Virtual Environment: Effects of Target Size and Movement Distance on Performances and Workload",
+			"authors": ["Reza Kazemi","Chae Heon Lim","Min Chul Cha", "Seul Chan Lee"],
+			"venue": "International Journal of Human–Computer Interaction",
+			"year": "2023.11",
+			"rate": "",
+			"toappear": "",
+			"award": "",
+			"abstract": "",
+			"keyword": ["Virtual reality","drag-and-drop task", "target-size", "movement distance", "task performance", "workload"],
+			"materials": [
+				{"type": "Taylor & Francis", "url": "https://doi.org/10.1080/10447318.2023.2276531"}
+			],
+			"img": "",
+			"url": "https://docs.google.com/uc?export=download&id=1_28bRb3p7biEqz_O55Ge08NU1nkUQ8Ti"
+		},
+{
+	"title": "Context Matters: Understanding the Effect of Usage Contexts on Users’ Modality Selection in Multimodal Systems",
+	"authors": ["Min Chul Cha", "Yong Gu Ji"],
+	"venue": "International Journal of Human–Computer Interaction",
+	"year": "2023.08",
+	"rate": "",
+	"toappear": "",
+	"award": "",
+	"abstract": "",
+	"keyword": "multimodal",
+	"materials": [
+		{"type": "Taylor & Francis", "url": "https://doi.org/10.1080/10447318.2023.2250606"}
+	],
+	"img": "",
+	"url": "https://docs.google.com/uc?export=download&id=1OQ2Mm0u2MqlFwKTT7yN2ci3rNBjj_w69"
+},
+{
+	"title": "The Unit and Size of Information Supporting Auditory Feedback for Voice User Interface",
+	"authors": ["Min Chul Cha", "Hyo Chang Kim", "Yong Gu Ji"],
+	"venue": "International Journal of Human–Computer Interaction",
+	"year": "2023.02",
+	"rate": "",
+	"toappear": "",
+	"award": "",
+	"abstract": "",
+	"keyword": "",
+	"materials": [
+		{"type": "Taylor & Francis", "url": "https://www.tandfonline.com/doi/full/10.1080/10447318.2023.2179214"}
+	],
+	"img": "",
+	"url": "https://docs.google.com/uc?export=download&id=1fsmdGoBaWqAU1OhgeQRxUC68uCtFQZxj"
+},
+{
+	"title": "The impact of an agent’s voice in psychological counseling: Session evaluation and counselor rating",
+	"authors": ["Hyo Chang Kim", "Min Chul Cha", "Yong Gu Ji"],
+	"venue": "Applied Sciences, 11(7)",
+	"year": "2021",
+	"rate": "",
+	"toappear": "",
+	"award": "",
+	"abstract": "",
+	"keyword": "",
+	"materials": [
+		{"type": "mdpi", "url": "https://www.mdpi.com/2076-3417/11/7/2893"}
+	],
+	"img": "",
+	"url": "https://docs.google.com/uc?export=download&id=1alKie8CVSmfdK1Ll9cO8uqi947yl-fz1"
+},
+{
+	"title": "The effect of empathy on human-agent interaction",
+	"authors": ["Hyo Chang Kim", "Min Chul Cha", "Yong Gu Ji"],
+	"venue": "ICIC Express Letters, Part B: Applications, 11(6), 551-557",
+	"year": "2020",
+	"rate": "",
+	"toappear": "",
+	"award": "",
+	"abstract": "",
+	"keyword": "",
+	"materials": [
+	],
+	"img": "",
+	"url": "https://docs.google.com/uc?export=download&id=1TNxnrB3RB6RmjrzdBImTiAK_gBUofFPx"
+},
+{
+	"title": "Investigating smartphone touch area with one-handed interaction: Effects of target distance and direction on touch behaviors",
+	"authors": ["Seul Chan Lee", "Min Chul Cha", "Yong Gu Ji"],
+	"venue": "International Journal of Human–Computer Interaction, 35(16)",
+	"year": "2019",
+	"rate": "",
+	"toappear": "",
+	"award": "",
+	"abstract": "",
+	"keyword": "",
+	"materials": [
+		{"type": "Taylor & Francis", "url": "https://www.tandfonline.com/doi/full/10.1080/10447318.2018.1554320"}
+	],
+	"img": "",
+	"url": "https://docs.google.com/uc?export=download&id=1drRtE8Hjf-rQa12ObzAIwUVAR6LYg7le"
+},
+{
+	"title": "Smartphone form factors: Effects of width and bottom bezel on touch performance, workload, and physical demand",
+	"authors": ["Seul Chan Lee", "Min Chul Cha", "Hwan Hwangbo", "Sookhee Mo", "Yong Gu Ji"],
+	"venue": "Applied ergonomics, 67",
+	"year": "2018.02.01",
+	"rate": "",
+	"toappear": "",
+	"award": "",
+	"abstract": "",
+	"keyword": "",
+	"materials": [
+		{"type": "Elsevier", "url": "https://www.sciencedirect.com/science/article/pii/S0003687017302247"}
+	],
+	"img": "",
+	"url": "https://docs.google.com/uc?export=download&id=1UUgrlbPx_9aS8Pa6c0Xxk-lqkArOKfVl"
+},
+{
+	"title": "The effects of smartphone edge display on EMG activity of thumb muscles in one-handed interaction",
+	"authors": ["Min Chul Cha", "Hwan Hwangbo", "Seul Chan Lee", "Yong Gu Ji"],
+	"venue": "The Japanese Journal of Ergonomics, 53",
+	"year": "2017.06.01",
+	"rate": "",
+	"toappear": "",
+	"award": "",
+	"abstract": "",
+	"keyword": "",
+	"materials": [
+		{"type": "JSTAGE", "url": "https://doi.org/10.5100/jje.53.S672"}
+	],
+	"img": "",
+	"url": "https://docs.google.com/uc?export=download&id=1BvE-v7in61Nr9ySzVLJIXzHub2jX6rEn"
+}
+
+	],
+
+"Domestic Conference & Journal Papers": [
+	{
+		"title": "Investigation of Modality Selection and the Point of Switching: Focused on Voice and Touch Modalities",
+		"authors": ["Yulim Kim", "Hyo Chang Kim", "Min Chul Cha"],
+		"venue": "Journal of the Ergonomics Society of Korea, 42(6)",
+		"year": "2024. 01. 05.",
+		"rate": "",
+		"toappear": "",
+		"award": "",
+		"abstract": "",
+		"keyword": "",
+		"materials": [
+			{"type": "DBpia", "url": "https://dx.doi.org/10.5143/JESK.2023.42.6.539"}
+		],
+		"img": "",
+		"url": "https://docs.google.com/uc?export=download&id=1Wq5ihGw1mOvcso096xLwp6s3_xDU0E1T"
+	},
+		{
+			"title": "자율주행 차량에서 운전자의 효과적인 차량 인터페이스 조작을 위한 멀티모달시스템 연구 방안",
+			"authors": ["Hyo Chang Kim", "Yulim Kim", "Min Chul Cha"],
+			"venue": "2023년 대한산업공학회 춘계공동학술대회",
+			"year": "2023. 05",
+			"rate": "",
+			"toappear": "",
+			"award": "",
+			"abstract": "",
+			"keyword": "",
+			"materials": [
+				{"type": "DBpia", "url": "https://www.dbpia.co.kr/journal/articleDetail?nodeId=NODE11472898"}
+			],
+			"img": "",
+			"url": "https://docs.google.com/uc?export=download&id=1ka2XYbR-JS_SQXSaEYwjJpoJVQv0_OHV"
+		},
+		{
+			"title": "Investigation of Touch Button Size and Touch Screen Position of IVIS in a Driving Context",
+			"authors": ["Seong Yong Bae", "Min Chul Cha", "Sol Hee Yoon", "Seul Chan Lee"],
+			"venue": "Journal of the Ergonomics Society of Korea, 42(1)",
+			"year": "2023. 03. 05.",
+			"rate": "",
+			"toappear": "",
+			"award": "",
+			"abstract": "",
+			"keyword": "",
+			"materials": [
+				{"type": "JESK", "url": "https://www.jesk.or.kr/archive/detail/314?is_paper=y"}
+			],
+			"img": "",
+			"url": "https://docs.google.com/uc?export=download&id=1h2HwMphIiB2waPcHV96zPPeMR_AsCDXo"
+		},
+		{
+			"title": "A Study on Sensibility Evaluation for Smartphone Camera Photography Based on Text Mining",
+			"authors": ["Min Chul Cha", "Cherin Lim", "Jae Moon Sim","Da Yeong Kim", "Yong Gu Ji"],
+			"venue": "Proceedings of 2021 Fall Conference of ESK",
+			"year": "2021. 11",
+			"rate": "",
+			"toappear": "",
+			"award": "",
+			"abstract": "",
+			"keyword": "",
+			"materials": [
+				{"type": "DBpia", "url": "https://www.dbpia.co.kr/journal/articleDetail?nodeId=NODE11043619"}
+			],
+			"img": "",
+			"url": "https://docs.google.com/uc?export=download&id=15GXOV2iEbMrsyCSycPAbqDFzTQRetsoj"
+		},
+		{
+			"title": "Status Quo and Innovative Directions for Inpatient Fall Interventions",
+			"authors": ["Ji Yea Lee", "Juhee Lee", "Yeonsoo Jang", "Eun Chae Kim", "Yong Gu Ji", "Taezoon Park", "Sang Yoon Um", "Min Chul Cha", "Yielin Kim"],
+			"venue": "Journal of Korean Academy of Fundamentals of Nursing, 27(4)",
+			"year": "2020.11.30",
+			"rate": "",
+			"toappear": "",
+			"award": "",
+			"abstract": "",
+			"keyword": "",
+			"materials": [
+				{"type": "KAFN", "url": "https://j.kafn.or.kr/journal/view.php?doi=10.7739/jkafn.2020.27.4.356"}
+			],
+			"img": "",
+			"url": "https://docs.google.com/uc?export=download&id=1n1qdbcPm71rz7y4n_BXHXfNdCOieIlOg"
+		},
+		{
+			"title": "A Study on the Client Experience using Chatbot based on Counseling Theory",
+			"authors": ["Ara Lee", "Hyo Chang Kim", "Min Chul Cha", "Yong Gu Ji"],
+			"venue": "Journal of the Ergonomics Society of Korea, 38(3)",
+			"year": "2019.06",
+			"rate": "",
+			"toappear": "",
+			"award": "",
+			"abstract": "",
+			"keyword": "",
+			"materials": [
+				{"type": "DBpia", "url": "https://www.dbpia.co.kr/journal/articleDetail?nodeId=NODE08746588"}
+			],
+			"img": "",
+			"url": "https://docs.google.com/uc?export=download&id=1GsoLAKExiTF2mde8z3IW0kr_PNK-Jv2L"
+		},
+		{
+			"title": "Usability Evaluation for User Interface of a Drone Remote Controller",
+			"authors": ["Min Chul Cha", "Bo Myeong Kim", "Jiin Lee", "Yong Gu Ji"],
+			"venue": "Proceedings of 2016 Fall Conference of ESK",
+			"year": "2016.11",
+			"rate": "",
+			"toappear": "",
+			"award": "",
+			"abstract": "",
+			"keyword": "",
+			"materials": [
+				{"type": "DBpia", "url": "https://www.dbpia.co.kr/journal/articleDetail?nodeId=NODE07093920"}
+			],
+			"img": "",
+			"url": "https://docs.google.com/uc?export=download&id=1sOF0rsNo-rB1Gf3uomr31s-Z2v1x6j0R"
+		}
+			],
+
+"Dissertation": [
+	{
+	"title": "Users' Modality Selection in Multimodal System",
+	"authors": ["Min Chul Cha"],
+	"venue": "Yonsei Ph.D. Thesis, December 2022",
+	"year": "2022",
+	"rate": "",
+	"toappear": "",
+	"award": "",
+	"abstract": "",
+	"keyword": "",
+	"materials": [
+		{"type": "dCollection@YONSEI", "url": "http://www.dcollection.net/handler/yonsei/000000544979"}
+	],
+	"img": "",
+	"url": "https://docs.google.com/uc?export=download&id=1f2iGDs1TMibopYwMUchmcQir2W_XMAKr"
+	}
+	]
+
+}

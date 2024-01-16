@@ -1,0 +1,236 @@
+{
+
+	"Project": [
+		{
+			"title": "Responsive multimodal interface for in-vehicle interactions",
+			"authors": [],
+			"venue": "NRF Korea",
+			"startyear": "2023.09",
+			"endyear": "2026.08",
+			"position": "PI",
+			"methods": ["ML","Driving Simulation","Eye-tracking"],
+			"award": "",
+			"abstract": "This study aims to develop a <Strong>‘Responsive Multimodal Interface’</Strong> enhancing the safety and usability of in-vehicle interactions. This involves researching a technology that recognizes the characteristics of passengers and functions performed in autonomous vehicles, and presents suitable modalities (interaction methods for input and output for task execution) to allow users to achieve their desired objectives. The goal of this research is to improve the stability and usability of in-vehicle interfaces for autonomous vehicle passengers by designing a technology that encourages interaction based on the characteristics and goals of passengers. <br> <Strong>'Responsive Multimodal Interface’</Strong> consists of <br><Strong>1) 'Modality Selection Technology,'</Strong> which determines the optimal interaction method based on passenger characteristics and target functions, and <br><Strong>2) 'Affordance Design Technology,'</Strong> which guides passengers to interact through the selected modality.",
+			"keyword": ["Modality Selection", "Responsive Multimodal Inyerface","In-vehicle Interactions", "VUI"],
+			"materials": [
+				{"type": "Paper1", "url": "https://docs.google.com/uc?export=download&id=1Wq5ihGw1mOvcso096xLwp6s3_xDU0E1T"}
+			],
+			"img": "https://drive.google.com/thumbnail?sz=w400&id=11XUfHc1s-hoAwZ9_MPKQZnaP8SN5AkVM",
+			"url": "https://drive.google.com/file/d/11XUfHc1s-hoAwZ9_MPKQZnaP8SN5AkVM/preview"
+		},
+
+{
+	"title": "Digital Transformation of Small and Medium Manufacturers",
+	"authors": [],
+	"venue": "Gabo Corp.",
+	"startyear": "2022.03",
+	"endyear": "2023.01",
+	"position": "PM",
+	"methods": ["AHP", "Survey", "Correlation analysis"],
+	"award": "",
+	"abstract": "",
+	"keyword": ["DT", "Smart Factory"],
+	"materials": [
+		{"type": "Paper", "url": "https://docs.google.com/uc?export=download&id=1L7P5oZs_IuFT_V04-ENahOS1cIqEkbTQ"}
+	],
+	"img": "https://drive.google.com/thumbnail?sz=w400&id=16H3hr8n0Xp3B88tpH_lsVFZFZEW7E7Lg",
+	"url": "https://drive.google.com/file/d/1GUg1nUPIV4NxZNmFWnpoZWPzzBfJ5dW8/preview"
+},
+{
+	"title": "Interface Optimization Study for Autonomous Driving UX",
+	"authors": [],
+	"venue": "Hyundai Motors",
+	"startyear": "2021.05",
+	"endyear": "2022.05",
+	"position": "Co-PM",
+	"methods": ["Heuristic", "FGI", "Prototyping", "User Test", "Driving Simulation","Eye-tracking"],
+	"award": "",
+	"abstract": "Improvement of voice and visual interfaces by discovering problems with VUI use of current AVNT vehicles. Guidelines for Voice UI and Visual UI of Infotainment System.",
+	"keyword": ["VUI", "Autonomus"],
+	"materials": [	
+		{"type": "Video", "url": "https://drive.google.com/uc?export=view&id=1QmZUhOPAehdC-FjYH2fGHA_veHXA58_U"}
+	],
+	"img": "https://drive.google.com/thumbnail?sz=w400&id=1ibDZq79yTLxZomgO4W1PafR1K-y4ahVn",
+	"url": "https://drive.google.com/file/d/1exzol2hSwKudVhTb8jeVDTBHSddXL7cx/preview"	
+},
+{
+	"title": "Perceived Image Quality of Smartphone Camera",
+	"authors": [],
+	"venue": "Samsung Electronics",
+	"startyear": "2021.04",
+	"endyear": "2021.10",
+	"position": "PM",
+	"methods": ["Text Mining", "Fator Analysis", "Blind Test", "A/B Test", "Heatmap"],
+	"award": "",
+	"abstract": "This study aims to investigate the relationship between perceptual image quality, affective image quality, and user preference for smartphone camera photos. A semantic scale consisting of four perceptual (‘color’, ‘exposure’, ‘noise’, ‘texture’) image qualities and eight affective (‘trendy’, ‘vivid’, ‘natural’, ‘bold’, ‘soft’, ‘warm’, ‘blueish’, ‘yellowish’) image qualities were defined through literature review and text-mining. Participants evaluated preferences, perceptual quality, and affective quality for the photos displayed on smartphones. The results of the multiple linear regression analysis showed that all perceptual qualities are significant determinants of preference. In affective qualities, ‘trendy’, ‘vivid’, ‘natural’, ‘bold’, and ‘yellowish’ were predictors of user preferences. Finally, ‘color’, ‘exposure’, and ‘texture’ had positive correlations with ‘trendy’, ‘vivid’, ‘natural’, and ‘bold’. This study presented two perspectives that could help improve users' preferences for smartphone photos. Additionally, the user survey method used in this study could make it efficient to investigate the preference for smartphone photos.",
+	"keyword": ["Smartphone", "Sensibility"],
+	"materials": [	
+		{"type": "Paper1", "url": "https://www.dbpia.co.kr/journal/articleDetail?nodeId=NODE11043619"},
+		{"type": "Paper2 (not Pub)", "url": "https://docs.google.com/uc?export=download&id=15GXOV2iEbMrsyCSycPAbqDFzTQRetsoj"},
+		{"type": "Program", "url": "https://github.com/shinyfe74/Photo_test"},
+		{"type": "Code(heatmap)", "url": "https://github.com/shinyfe74/Ratio_Template_Matching"},
+		{"type": "Code(image harmony)", "url": "https://github.com/shinyfe74/Image_harmony"},
+		{"type": "Webpage", "url": "https://pichuphone.com/"}
+
+	],
+	"img": "https://drive.google.com/thumbnail?sz=w400&id=1W24ySgqgfoneYRHmhFntQ4EHMu3VMxcF",
+	"url": "https://drive.google.com/file/d/1blQNvgNZFNzl2aNgFteNjLBTf9H7YEJB/preview"
+
+},
+{
+	"title": "Emotional Intelligence Technology to Infer Human Emotion and Carry-on Dialogue Accordingly",
+	"authors": [],
+	"venue": "MSIT(Korea)",
+	"startyear": "2016.12",
+	"endyear": "2020.12",
+	"position": "PM",
+	"methods": ["User Test", "WoZ", "Big5"],
+	"award": "",
+	"abstract": "Development of a voice-based psychological counseling agent that responds to the psychological state of its user<br>&#9679Analyzed Human–AI interaction and create a customer journey map<br>&#9679Analyzed the corpus that occurs when interacting with an AI to analyze user needs<br>&#9679Designed user-centered text and voice based psychological counseling agent operation methods<br>&#9679Designed psychological counseling response framework suitable for AI to relieve the psychological state of the user<br>&#9679Improved psychological state of the user and secured expertise of the psychological counseling agent through user experiments<br>&#9679Consulted 2021 development of a psychological counseling chat-bot of ‘Seoul Mental Health Welfare Center’ based on the research associated with the project",
+	"keyword": ["AI Agent", "VUI", "Empathy", "Smart Speaker"],
+	"materials": [	
+		{"type": "Report", "url": "https://docs.google.com/uc?export=download&id=1jwYjl78ULH_gNFlgnhHcvoqoOCgplgyF"},
+		{"type": "Paper1", "url": "https://www.mdpi.com/2076-3417/11/7/2893"},
+		{"type": "Paper2", "url": "https://docs.google.com/uc?export=download&id=1TNxnrB3RB6RmjrzdBImTiAK_gBUofFPx"},
+		{"type": "Paper3", "url": "https://www.dbpia.co.kr/journal/articleDetail?nodeId=NODE08746588"},
+		{"type": "Patent", "url": "https://patents.google.com/patent/KR102225603B1/en?oq=+10-2225603"}
+
+	],
+	"img": "https://drive.google.com/thumbnail?sz=w400&id=1A_Gi3up1tr2b5kq1z5dSkn552skbKh7q",
+	"url": "https://drive.google.com/file/d/1vshj1E1ipHPeFQOX1z5LBCCoiZwQ0Lds/preview"
+},
+
+{
+	"title": "Development of a Digital Transformation Maturity Model",
+	"authors": [],
+	"venue": "KEPCO",
+	"startyear": "2020.03",
+	"endyear": "2020.07",
+	"position": "PM",
+	"methods": ["AHP", "Survey"],
+	"award": "",
+	"abstract": "",
+	"keyword": ["DT", "AHP", "Measurement"],
+	"materials": [	
+		{"type": "Report", "url": "https://docs.google.com/uc?export=download&id=1Xo0rYT-ZFvY1tKxMnHYfmY8DNoaZZlBn"},
+		{"type": "News", "url": "http://m.ceoscoredaily.com/page/view/2020080414132000234"}
+	],
+	"img": "https://drive.google.com/thumbnail?sz=w400&id=1EVxSpNkYgQWYDJKNJCAiD0j3DMBRJON_",
+	"url": "https://drive.google.com/file/d/1Hk8279LzOSNgoGZzRLho3uKPnzgQWmmX/preview"
+},
+
+{
+	"title": "Evaluation of Usability of Smartphone (A Study on the Proper Form Factor Level in Mobile Environment)",
+	"authors": [],
+	"venue": "LG Electronics",
+	"startyear": "2016.12",
+	"endyear": "2017.04",
+	"position": "PA",
+	"methods": ["User Test", "EMG", "Fitts's Law", "Observation"],
+	"award": "",
+	"abstract": "Diagnose mobile life appropriateness of 1) main form factor (width, bottom bezel) and 2) new design trend (18: 9 aspect ratio, edge display) applied to smartphone devices (5.0 - 5.7 inch) from human factors point of view. Derive appropriate design level and guidelines for smartphone form factor for stable one-handed operation.<br>&#9679Coordinated user performance comparison experiment based on the Fit’s law for different smartphone screen ratios<br>&#9679Coordinated user performance comparison experiment in relation to smartphone usage environment (e.g. walking, sitting)<br>&#9679Coordinated user performance comparison experiment in relation to curvatures (e.g. edge, flat) of smartphone screens.",
+	"keyword": ["Smartphone", "Form Factor", "Fitts's Law", "EMG"],
+	"materials": [	
+		{"type": "Video", "url": "https://www.youtube.com/embed/uR5tCR0CrQc"},
+		{"type": "Paper1", "url": "https://www.tandfonline.com/doi/full/10.1080/10447318.2018.1554320"},
+		{"type": "Paper2", "url": "https://www.sciencedirect.com/science/article/pii/S0003687017302247"},
+		{"type": "Paper3", "url": "https://doi.org/10.5100/jje.53.S672"}
+		
+	],
+	"img": "https://drive.google.com/thumbnail?sz=w400&id=1SiqUWrBylQiW37Qiwga1DPoK04aGuIpo",
+	"url": "https://drive.google.com/file/d/1IFf1-aP9obw_VEsIy5GktA2m9jvWb1GS/preview"
+}
+
+	],
+	"Experimental Program": [
+	{	
+		"title": "Fitts's Law Drag & Drop 2023",
+		"authors": [],
+		"venue": "",
+		"startyear": "",
+		"endyear": "",
+		"rate": "",
+		"methods": ["Python", "Fitts's Law", "Touchscreen"],
+		"award": "",
+		"abstract": "",
+		"keyword": ["Smartphone", "Fitts's Law"],
+		"materials": [	
+			{"type": "Program", "url": "https://docs.google.com/uc?export=download&id=1309TwabncHGNa6wE86ZMz5knke4_ayIL"},
+			{"type": "Paper1", "url": "https://doi.org/10.1080/10447318.2023.227653"}
+			
+		],
+		"img": "https://drive.google.com/thumbnail?sz=w400&id=1fa0gdcw-FSiAfzMlX49hINvBMK-TwG_9",
+		"url": ""
+	},
+
+	{	
+		"title": "Modality Selection 2023",
+		"authors": [],
+		"venue": "",
+		"startyear": "",
+		"endyear": "",
+		"rate": "",
+		"methods": ["Javascript", "Google STT API", "Touchscreen"],
+		"award": "",
+		"abstract": "",
+		"keyword": ["Smartphone", "VUI", "Multimodal"],
+		"materials": [	
+			{"type": "Testpage", "url": "https://minchulcha.com/modality_exam/index.html"},
+			{"type": "Video", "url": "https://drive.google.com/uc?export=view&id=13iL7pVqJsB_GPr7qOPRHJI0_Y-eIpzqo"},
+			{"type": "Paper(My Thesis)", "url": "https://docs.google.com/uc?export=download&id=1wEdxT1S0yS18DnwrXMMxRQ5pbhRA3EKz"},
+			{"type": "Paper1", "url": "https://doi.org/10.1080/10447318.2023.2250606"},
+			{"type": "Paper2", "url": "https://dx.doi.org/10.5143/JESK.2023.42.6.539"}
+
+			
+		],
+		"img": "https://drive.google.com/thumbnail?sz=w400&id=102kMi8UF22Kxlp1Y_AsuiIzvL5WAb0gJ",
+		"url": "https://minchulcha.com/modality_exam/index.html"
+	},
+
+	{	
+		"title": "Smartphone Photo Evaluation 2021",
+		"authors": [],
+		"venue": "",
+		"startyear": "",
+		"endyear": "",
+		"rate": "",
+		"methods": ["Python"],
+		"award": "",
+		"abstract": "",
+		"keyword": ["Smartphone", "Form Factor", "Fitts's Law", "EMG"],
+		"materials": [	
+			{"type": "Program", "url": "https://docs.google.com/uc?export=download&id=1eg1AXlk7_bFnFYVVVOW8y-0U7Md_ouAj"},
+			{"type": "Github", "url": "https://github.com/shinyfe74/Photo_test"},
+			{"type": "Paper", "url": "https://www.dbpia.co.kr/journal/articleDetail?nodeId=NODE11043619"},
+			{"type": "Webpage", "url": "https://pichuphone.com/"}
+
+			
+		],
+		"img": "https://drive.google.com/thumbnail?sz=w400&id=10ws4bpbHjLHYtDP__B8e8t-Bc5XNpdbF",
+		"url": ""
+	},
+
+	{	
+		"title": "Target Click 2020 (update 202305)",
+		"authors": [],
+		"venue": "",
+		"startyear": "",
+		"endyear": "",
+		"rate": "",
+		"methods": ["Python", "Fitts's Law", "Touchscreen"],
+		"award": "",
+		"abstract": "",
+		"keyword": ["Smartphone", "Fitts's Law"],
+		"materials": [	
+			{"type": "Program", "url": "https://docs.google.com/uc?export=download&id=1B6j_EBvj_0MvccCg3lBCCyqt9K-Pf2Y8"},
+			{"type": "Paper", "url": "https://www.jesk.or.kr/archive/detail/314?is_paper=y"}
+			
+		],
+		"img": "https://drive.google.com/thumbnail?sz=w400&id=1UaNnJI5roAGEgB78LlK5UOgVuHIxXKVD",
+		"url": ""
+	}
+		
+
+		
+		]
+}

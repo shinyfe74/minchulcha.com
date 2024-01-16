@@ -1,0 +1,57 @@
+<!DOCTYPE html>
+<head>
+<meta charset="UTF-8" />
+<meta name="robots" content="noindex,nofollow"/>
+<meta name="viewport" content="width=device-width, initial-scale=1.0, maximum-scale=1.0, minimum-scale=1.0, user-scalable=no"/>
+<meta http-equiv="X-UA Compatible" />
+<link href="http://www.jqueryscript.net/css/jquerysctipttop.css" rel="stylesheet" type="text/css">
+<link href="css/popup_layer.css" rel="stylesheet" type="text/css">
+<script type="text/javascript" src="http://code.jquery.com/jquery.min.js"></script>
+<script type="text/javascript">
+    // $(document).ready(function(){
+    //     // var getURL = URL(window.location.href).searchParams.get('url');
+    //     var getURL = window.location.search.replace('?url=',"");
+    //     $('.popup').append('<iframe id="popupframe" src="'+getURL+'" marginwidth="0" marginheight="0" frameborder="no" allowfullscreen onload="frameload();"></iframe>');
+        
+    // });
+
+    function frameload() {
+        $('iframe').contents().find('body').find("img").attr("style", "width:100%;");
+
+    }
+    
+
+    $(document).ready(function(){
+        var getURL = window.location.search.replace('?',"").split("&url=");
+        var type = getURL[0].replace("type=","");
+        var srcURL = getURL[1];
+        // $('.popup').append(getURL);
+        // $('.popup').append(type);
+        // $('.popup').append(srcURL);
+
+        if (type == 'img')
+            $('.popup').append('<iframe id="popupframe" src="'+srcURL+'" marginwidth="0" marginheight="0" frameborder="no" allowfullscreen onload="frameload();"></iframe>');
+        else if (type == 'video')
+            $("<video/>").attr("id", "popupvideo").attr("width", "100%").attr("controls","controls").attr("src",srcURL).appendTo('.popup');
+        
+            // $('.popup').append('<img id="popupframe" src="'+srcURL+'">');
+
+        
+        // var getURL = window.location.search.replace('?url=',"");
+        // $('.popup').append('<img id="popupframe" src="'+srcURL+'">');
+        
+    });
+
+</script>
+</head>
+<body>
+    <div class="popup">
+        <!-- <div class="popup-inner">
+            <iframe src="http://www.daum.net" frameborder="0" width="1200" height="500" marginwidth="0" marginheight="0"></iframe>
+            <a href="#" id="popup-colse-1" class="popup-close" data-popup-close="popup-1">x</a>
+        </div> -->
+    </div>
+
+</body>
+</html>
+
