@@ -125,7 +125,6 @@ li,
 ol {
      margin: 0px;
      padding: 0px;
-     list-style: none;
 }
 
 p {
@@ -872,6 +871,11 @@ button.main_bt {
 }
 
 /***publication***/
+.publication{
+    list-style: none;
+}
+
+
 .pub-type{
     font-weight: bold;
     background-color: #fff;
@@ -903,6 +907,51 @@ button.main_bt {
 
 .pub-title a{
     font-size: 13px;
+}
+
+
+/***opportunities***/
+.opp-type{
+    background-color: #fff;
+    padding: 10px 0;
+}
+
+.opportunities_main a{
+    color: saddlebrown;
+}
+
+.opportunities_main a:hover{
+    color: #fff;
+}
+
+
+.opportunities_main{
+	width: 100%;
+	float: left;
+	margin-top: 30px;
+}
+
+.opp-title{
+    color:#000;
+    font-size: 17px;
+    font-weight: 700;
+    padding-bottom: 0;
+    padding-top: 10px;
+}
+
+.opp-title a{
+    font-size: 13px;
+}
+
+.opp-contents{
+    font-size: 15px;
+}
+
+.opp-contents ol,
+.opp-contents ul,
+.opp-contents li{
+    padding:auto;
+
 }
 
 /* project */

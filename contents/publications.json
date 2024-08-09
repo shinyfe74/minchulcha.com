@@ -2,6 +2,54 @@
 
 	"International Conference & Journal Papers": [
 		{
+			"title": "Not Merely Useful but Also Amusing: Impact of Perceived Usefulness and Perceived Enjoyment on the Adoption of AI-Powered Coding Assistant",
+			"authors": ["Young Woo Kim", "Min Chul Cha", "Sol Hee Yoon", "Seul Chan Lee"],
+			"venue": "International Journal of Human–Computer Interaction",
+			"year": "2024.7",
+			"rate": "",
+			"toappear": "",
+			"award": "",
+			"abstract": "",
+			"keyword": ["Artificial intelligence coding assistant (AI-CA)", "technology adoption", "utilitarian and hedonic values", "perceived enjoyment", "structural equation modeling"],
+			"materials": [
+				{"type": "Taylor & Francis", "url": "https://doi.org/10.1080/10447318.2024.2375701"}
+			],
+			"img": "",
+			"url": "https://doi.org/10.1080/10447318.2024.2375701"
+		},
+		{
+			"title": "Physical loads on upper extremity muscles while interacting with virtual objects in an augmented reality context",
+			"authors": ["Chae Heon Lim", "Min Chul Cha","Seul Chan Lee"],
+			"venue": "Applied ergonomics",
+			"year": "2024.7",
+			"rate": "",
+			"toappear": "",
+			"award": "",
+			"abstract": "",
+			"keyword": ["Augmented reality", "Drag-and-drop task", "Physical load", "Electromyograph"],
+			"materials": [
+				{"type": "Elsevier", "url": "https://doi.org/10.1016/j.apergo.2024.104340"}
+			],
+			"img": "",
+			"url": "https://doi.org/10.1016/j.apergo.2024.104340"
+		},
+		{
+			"title": "How Do Users Regulate Interaction Behaviors While Performing a Drag-and-Drop Task in a Virtual Reality Environment?",
+			"authors": ["Min Chul Cha", "Chae Heon Lim", "Young Woo Kim", "Sol Hee Yoon", "Seul Chan Lee"],
+			"venue": "International Journal of Human–Computer Interaction",
+			"year": "2024.4",
+			"rate": "",
+			"toappear": "",
+			"award": "",
+			"abstract": "",
+			"keyword": ["Virtual reality","drag-and-drop", "Fitts' law", "interaction behavior", "behavior segmentation"],
+			"materials": [
+				{"type": "Taylor & Francis", "url": "https://doi.org/10.1080/10447318.2024.2342085"}
+			],
+			"img": "",
+			"url": "https://doi.org/10.1080/10447318.2024.2342085"
+		},
+		{
 			"title": "Evaluation of Drag-and-Drop Task in Virtual Environment: Effects of Target Size and Movement Distance on Performances and Workload",
 			"authors": ["Reza Kazemi","Chae Heon Lim","Min Chul Cha", "Seul Chan Lee"],
 			"venue": "International Journal of Human–Computer Interaction",
@@ -16,7 +64,7 @@
 			],
 			"img": "",
 			"url": "https://docs.google.com/uc?export=download&id=1_28bRb3p7biEqz_O55Ge08NU1nkUQ8Ti"
-		},
+		},		
 {
 	"title": "Context Matters: Understanding the Effect of Usage Contexts on Users’ Modality Selection in Multimodal Systems",
 	"authors": ["Min Chul Cha", "Yong Gu Ji"],
