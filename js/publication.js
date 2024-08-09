@@ -2,7 +2,7 @@
 $(document).ready(function(){
     $.getJSON( "contents/publications.json", function( data ) {
         $.each( data, function( type, papers ) {
-            var $pubType = $("<h1/>").addClass("pub-type").append(type);
+            var $pubType = $("<h1/>").addClass("pub-type pl-2").append(type);
             $("<div/>").addClass("section pub-section mt-3").append($pubType).appendTo("#main");
             $("<ul/>").addClass("publication").appendTo("#main");
             $.each(papers, function(index, paper){
