@@ -180,6 +180,22 @@
 	],
 
 "Domestic Conference & Journal Papers": [
+		{
+		"title": "Development of eHMI Design Factors from the Perspective of Road Users: A Systematic Literature Review",
+		"authors": ["Yuhwa Hong", "Suhwan Jung", "Gyuhee Park", "Yong Gu Ji","Min Chul Cha"],
+		"venue": "Journal of the Ergonomics Society of Korea, 43(4)",
+		"year": "2024. 09. 08.",
+		"rate": "",
+		"toappear": "",
+		"award": "",
+		"abstract": "",
+		"keyword": "",
+		"materials": [
+			{"type": "DBpia", "url": "https://jesk.or.kr/archive/detail/385"}
+		],
+		"img": "",
+		"url": "https://jesk.or.kr/archive/detail/385"
+	},
 	{
 		"title": "Investigation of Modality Selection and the Point of Switching: Focused on Voice and Touch Modalities",
 		"authors": ["Yulim Kim", "Hyo Chang Kim", "Min Chul Cha"],
