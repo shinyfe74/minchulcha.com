@@ -1,52 +1,70 @@
-
 $(document).ready(function(){
-    $.getJSON( "contents/publications.json", function( data ) {
-        $.each( data, function( type, papers ) {
-            var $pubType = $("<h1/>").addClass("pub-type pl-2").append(type);
-            $("<div/>").addClass("section pub-section mt-3").append($pubType).appendTo("#main");
-            $("<ul/>").addClass("publication").appendTo("#main");
-            $.each(papers, function(index, paper){
-                var paperId = type[0] + (papers.length - index);
-                var $anchor = $("<a/>").attr("name", paperId);
-                var $item = $("<li/>").attr("id", paperId);
-                $anchor.appendTo($item);
-                if (paper.url != "")
-                    $("<h4/>").addClass("pub-title").append(paper.title+"<a href='" + paper.url + "'target='_parent'>" + " [download]" + "</a>").appendTo($item);
-                else
-                    $("<div/>").addClass("pub-title").append(paper.title).appendTo($item);
-                var authors = [];
-                $.each(paper.authors, function(akey, aval){
-                    if (aval == "Minchul Cha" || "Min Chul Cha"){
-                        authors.push("<span class='author'>" + aval + "</span>");
-                    } else {
-                        authors.push(aval);
-                    }
-                });
-                $("<div/>").addClass("authors").append(authors.join(", ")).appendTo($item);
-                $("<span/>").addClass("venue").append(paper.venue + " ").appendTo($item);
-                $("<span/>").addClass("year").append("("+paper.year + ") ").appendTo($item);
-                if (paper.toappear){
-                    $("<span/>").addClass("toappear").append(paper.toappear).appendTo($item);
+    $.getJSON("contents/publications.json", function(data) {
+        $.each(data, function(type, entries) {
+            if (!Array.isArray(entries)) return; // 잘못된 데이터 구조 방지
+
+            var $pubType = $("<h1/>").addClass("pub-type pl-2").text(type);
+            var $section = $("<div/>").addClass("section pub-section mt-3").append($pubType);
+            $("#main").append($section);
+
+            var $ul = $("<ul/>").addClass("publication");
+            $section.append($ul);
+
+            $.each(entries, function(_, entry) {
+                if (entry.Year) {
+                    var $yearHeader = $("<h2/>").addClass("year-header pub-title mt-3").text("[" + entry.Year + "]");
+                    $ul.append($yearHeader);
                 }
-                if (paper.award){
-                    $("<span/>").addClass("award").append(paper.award).appendTo($item);
-                }
-                if (paper.materials){
-                    $.each(paper.materials, function(mkey, mval){
-                        $("<span/>").addClass("material").append("| <a href='" + mval.url + "'target='_blank'>" + mval.type + " </a>").appendTo($item);
+                if (entry.Publication) {
+                    $.each(entry.Publication, function(index, paper) {
+                        var paperId = type.replace(/\s+/g, '_') + "_" + (entries.length - index);
+                        var $item = $("<li/>").attr("id", paperId);
+                        
+                        if (paper.url) {
+                            $("<h4/>").addClass("pub-title")
+                                .html(paper.title + " <a href='" + paper.url + "' target='_blank'>[download]</a>")
+                                .appendTo($item);
+                        } else {
+                            $("<div/>").addClass("pub-title").text(paper.title).appendTo($item);
+                        }
+
+                        var authors = paper.authors.map(name => {
+                            return name.includes("Min Chul Cha") ? `<span class='author'>${name}</span>` : name;
+                        }).join(", ");
+                        $("<div/>").addClass("authors").html(authors).appendTo($item);
+                        
+                        $("<span/>").addClass("venue").text(paper.venue + " ").appendTo($item);
+                        $("<span/>").addClass("year").text("(" + paper.year + ") ").appendTo($item);
+                        
+                        if (paper.toappear) {
+                            $("<span/>").addClass("toappear").text(paper.toappear).appendTo($item);
+                        }
+                        if (paper.award) {
+                            $("<span/>").addClass("award").text(paper.award).appendTo($item);
+                        }
+                        
+                        if (paper.materials) {
+                            paper.materials.forEach(m => {
+                                $("<span/>").addClass("material")
+                                    .html(`| <a href='${m.url}' target='_blank'>${m.type}</a> `)
+                                    .appendTo($item);
+                            });
+                        }
+                        
+                        $ul.append($item);
                     });
                 }
-                $(".publication").last().append($item);
             });
         });
 
-        // process pound sign now.
-        if(window.location.hash) {
-            var hash = window.location.hash.substring(1); // Puts hash in variable, and removes the # character
-            $("#" + hash)
-                .addClass("anchored");
-            console.log(hash, $("#" + hash).offset().top);
-            $(document).scrollTop($("#" + hash).offset().top);
+        // Handle URL hash scrolling
+        if (window.location.hash) {
+            var hash = window.location.hash.substring(1);
+            var $target = $("#" + hash);
+            if ($target.length) {
+                $target.addClass("anchored");
+                $(document).scrollTop($target.offset().top);
+            }
         }
     });
 });
