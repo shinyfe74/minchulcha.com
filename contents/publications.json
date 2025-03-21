@@ -10,6 +10,22 @@
 				"Year": "2024",
 				"Publication": [
 					{
+						"title": "Evaluation of Drag-and-Drop Task in Virtual Environment: Effects of Target Size and Movement Distance on Performances and Workload",
+						"authors": ["Reza Kazemi", "Chae Heon Lim", "Min Chul Cha", "Seul Chan Lee"],
+						"venue": "International Journal of Human–Computer Interaction",
+						"year": "2024.7",
+						"rate": "",
+						"toappear": "",
+						"award": "",
+						"abstract": "",
+						"keyword": ["Virtual reality", "drag-and-drop","target size","movement distance","task performance","workload"],
+						"materials": [
+							{"type": "Taylor & Francis", "url": "https://doi.org/10.1080/10447318.2023.2276531"}
+						],
+						"img": "",
+						"url": "https://doi.org/10.1080/10447318.2023.2276531"
+					},
+					{
 						"title": "Not Merely Useful but Also Amusing: Impact of Perceived Usefulness and Perceived Enjoyment on the Adoption of AI-Powered Coding Assistant",
 						"authors": ["Young Woo Kim", "Min Chul Cha", "Sol Hee Yoon", "Seul Chan Lee"],
 						"venue": "International Journal of Human–Computer Interaction",
