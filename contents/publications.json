@@ -3,6 +3,22 @@
 			{
 					"Year": "2025",
 					"Publication": [
+						{
+							"title": "Balancing Privacy and Utility in Personal LLM Writing Tasks: An Automated Pipeline for Evaluating Anonymizations",
+							"authors": ["Stefan Pasch", "Min Chul Cha"],
+							"venue": "2025 Nations of the Americas Chapter of the Association for Computational Linguistics (NAACL 2025)",
+							"year": "2025.4",
+							"rate": "",
+							"toappear": "",
+							"award": "",
+							"abstract": "",
+							"keyword": ["LLM", "Privacy", "Entity"],
+							"materials": [
+								{"type": "NAACL", "url": "https://2025.naacl.org/"}
+							],
+							"img": "",
+							"url": "https://2025.naacl.org/"
+						},
 
 					]
 			},
