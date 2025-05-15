@@ -1,6 +1,6 @@
 {
 	"International Conference & Journal Papers": [
-					{
+			{
 					"Year": "2025",
 					"Publication": [
 						{
@@ -17,14 +17,9 @@
 								{"type": "Taylor & Francis", "url": "https://doi.org/10.1080/00140139.2025.2499200"}
 							],
 							"img": "",
-							"url": "https://2025.naacl.org/"
-						}
+							"url": "https://doi.org/10.1080/00140139.2025.2499200"
+						},
 
-					]
-			},
-			{
-					"Year": "2025",
-					"Publication": [
 						{
 							"title": "Balancing Privacy and Utility in Personal LLM Writing Tasks: An Automated Pipeline for Evaluating Anonymizations",
 							"authors": ["Stefan Pasch", "Min Chul Cha"],
@@ -41,6 +36,7 @@
 							"img": "",
 							"url": "https://2025.naacl.org/"
 						}
+
 
 					]
 			},
