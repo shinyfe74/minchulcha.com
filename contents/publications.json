@@ -4,6 +4,22 @@
 					"Year": "2025",
 					"Publication": [
 						{
+							"title": "A Comparative Analysis Between Real Human and Virtual Human Interactions in an Academic Learning Context Using Emotion Recognition",
+							"authors": ["Suman Kalyan Sardar, Min Chul Cha, Seul Chan Lee"],
+							"venue": "International Journal of Human–Computer Interaction",
+							"year": "2025.6",
+							"rate": "",
+							"toappear": "",
+							"award": "",
+							"abstract": "",
+							"keyword": ["Virtual Human", "emotion analysis", "academic learning", "convolutional neural networks", "human-avatar interactions"],
+							"materials": [
+								{"type": "Taylor & Francis", "url": "https://doi.org/10.1080/10447318.2025.2512526"}
+							],
+							"img": "",
+							"url": "https://doi.org/10.1080/10447318.2025.2512526"
+						},
+						{
 							"title": "Switching between touch and voice: factors influencing modality selection in multimodal systems",
 							"authors": ["Min Chul Cha"],
 							"venue": "Ergonomics",
