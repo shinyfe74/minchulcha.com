@@ -892,11 +892,11 @@ button.main_bt {
     padding: 10px 0;
 }
 
-.publication_main a{
+.publication_main .pub_down{
     color: saddlebrown;
 }
 
-.publication_main a:hover{
+.publication_main .pub_down:hover{
     color: #fff;
 }
 

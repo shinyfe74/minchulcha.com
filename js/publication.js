@@ -23,11 +23,11 @@ $(document).ready(function(){
                         if (paper.url) {
                             if (paper.materials) {
                                 $("<h4/>").addClass("pub-title")
-                                    .html(" <a href='" + paper.materials[0].url + "' target='_blank'>" + paper.title + "</a> + <a href='" + paper.url + "' target='_blank'>[download]</a>")
+                                    .html(" <a href='" + paper.materials[0].url + "' target='_blank'>" + paper.title + "</a>  <a href='" + paper.url + "' target='_blank' class='pub_down'>[download]</a>")
                                     .appendTo($item);
                             } else {
                                 $("<h4/>").addClass("pub-title")
-                                    .html(paper.title + " <a href='" + paper.url + "' target='_blank'>[paper]</a>")
+                                    .html(paper.title + " <a href='" + paper.url + "' target='_blank' class='pub_down'>[paper]</a>")
                                     .appendTo($item);
                             }
                         } else {
@@ -52,7 +52,7 @@ $(document).ready(function(){
                         if (paper.materials) {
                             paper.materials.forEach(m => {
                                 $("<span/>").addClass("material")
-                                    .html(`| <a href='${m.url}' target='_blank'>${m.type}</a> `)
+                                    .html(`| <a href='${m.url}' target='_blank' class='pub_down'>${m.type}</a> `)
                                     .appendTo($item);
                             });
                         }
