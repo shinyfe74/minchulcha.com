@@ -21,9 +21,15 @@ $(document).ready(function(){
                         var $item = $("<li/>").attr("id", paperId);
                         
                         if (paper.url) {
-                            $("<h4/>").addClass("pub-title")
-                                .html(paper.title + " <a href='" + paper.url + "' target='_blank'>[download]</a>")
-                                .appendTo($item);
+                            if (paper.materials) {
+                                $("<h4/>").addClass("pub-title")
+                                    .html(" <a href='" + paper.materials[0].url + "' target='_blank'>" + paper.title + "</a> + <a href='" + paper.url + "' target='_blank'>[download]</a>")
+                                    .appendTo($item);
+                            } else {
+                                $("<h4/>").addClass("pub-title")
+                                    .html(paper.title + " <a href='" + paper.url + "' target='_blank'>[paper]</a>")
+                                    .appendTo($item);
+                            }
                         } else {
                             $("<div/>").addClass("pub-title").text(paper.title).appendTo($item);
                         }
