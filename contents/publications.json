@@ -4,6 +4,22 @@
 					"Year": "2025",
 					"Publication": [
 						{
+							"title": "Exploring UX Dimensions and Experience-Levels in VR Gaming: Insights from Online Reviews Using Transformer Models",
+							"authors": ["Stefan Pasch", "Seungju Lee", "Min Chul Cha"],
+							"venue": "International Journal of Human–Computer Interaction",
+							"year": "2025.7",
+							"rate": "",
+							"toappear": "",
+							"award": "",
+							"abstract": "",
+							"keyword": ["Virtual reality", "user experience (UX)", "textual analysis", "online reviews"],
+							"materials": [
+								{"type": "Taylor & Francis", "url": "https://doi.org/10.1080/10447318.2025.2527839"}
+							],
+							"img": "",
+							"url": "https://doi.org/10.1080/10447318.2025.2527839"
+						},
+						{
 							"title": "A Comparative Analysis Between Real Human and Virtual Human Interactions in an Academic Learning Context Using Emotion Recognition",
 							"authors": ["Suman Kalyan Sardar", "Min Chul Cha", "Seul Chan Lee"],
 							"venue": "International Journal of Human–Computer Interaction",
@@ -273,7 +289,7 @@
 			"Publication": [
 				{
 					"title": "Typologizing the user reviews of critics and general users with the BERTopic framework (BERTopic 프레임워크를 활용한 비평가와 일반 유저의 사용자 리뷰 유형화)",
-					"authors": ["Seung Ju Lee", "Min Chul Cha"],
+					"authors": ["Seungju Lee", "Min Chul Cha"],
 					"venue": "In Proceedings of 2024 Fall Ergonomics Society of Korea",
 					"year": "2024. 11.",
 					"rate": "",
