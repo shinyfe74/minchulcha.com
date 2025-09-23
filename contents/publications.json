@@ -1,5 +1,28 @@
 {
 	"International Conference & Journal Papers": [
+				
+			{
+					"Year": "2026",
+					"Publication": [
+						{
+							"title": "Development and Validation of Generative AI Competence Scale (GenAIComp) among University Students",
+							"authors": ["Seul Chan Lee", "Tiju Baby", "Rattawut Vongvit", "Jieun Lee","Young Woo Kim","Min Chul Cha", "Sol Hee Yoon"],
+							"venue": "Technology in Society",
+							"year": "2026.3",
+							"rate": "",
+							"toappear": "",
+							"award": "",
+							"abstract": "",
+							"keyword": ["Generative AI", "AI competenc", "Digital literacy", "GenAIComp"],
+							"materials": [
+								{"type": "Elsevier", "url": "https://www.sciencedirect.com/science/article/pii/S0160791X25002490"}
+							],
+							"img": "",
+							"url": "https://docs.google.com/uc?export=download&id=1deJjuSKVEuf7ylstGDKOHjfdelgZcOYr"
+						}
+					]
+			},
+		
 			{
 					"Year": "2025",
 					"Publication": [
