@@ -25,7 +25,7 @@
         $mail->Port        = 465;
         $mail->Mailer      = 'smtp';
         $mail->Username    = 'shinyfe74@gmail.com';
-        $mail->Password    = 'strjbznsfrbycesz';
+        $mail->Password    = 'teststes';   //비밀번호 설정 필요
         $mail->addAddress('shinyfe74@gmail.com', 'Receiver');
         $mail->setFrom('shinyfe74@gmail.com', 'Sender');
         $mail->isHTML(true);
