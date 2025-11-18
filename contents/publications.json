@@ -44,6 +44,22 @@
 					"Publication": [
 
 						{
+							"title": "The effects of locomotion and steering methods in virtual reality on unintended positional drift",
+							"authors": ["Chae Heon Lim", "Hwanhum Lee", "Doheon Kim", "Min Chul Cha", "Seul Chan Lee"],
+							"venue": "Applied ergonomics",
+							"year": "2025.10",
+							"rate": "",
+							"toappear": "",
+							"award": "",
+							"abstract": "",
+							"keyword": ["Virtual reality", "Locomotion", "Steering", "Unintended positional drift"],
+							"materials": [
+								{"type": "Taylor & Francis", "url": "https://doi.org/10.1016/j.apergo.2025.104652"}
+							],
+							"img": "",
+							"url": "https://docs.google.com/uc?export=download&id=15ECFsVwGqHq-pHphsWm1_2C6ksqAqDvL"
+						},
+						{
 							"title": "Exploring UX Dimensions and Experience-Levels in VR Gaming: Insights from Online Reviews Using Transformer Models",
 							"authors": ["Stefan Pasch", "Seungju Lee", "Min Chul Cha"],
 							"venue": "International Journal of Human–Computer Interaction",

@@ -23,7 +23,7 @@ $(document).ready(function(){
                         if (paper.url) {
                             if (paper.materials) {
                                 $("<h4/>").addClass("pub-title")
-                                    .html(" <a href='" + paper.materials[0].url + "' target='_blank'>" + paper.title + "</a>  <a href='" + paper.url + "' target='_blank' class='pub_down'>[download]</a>")
+                                    .html(" <a href='" + paper.materials[0].url + "' target='_blank'>" + paper.title + "</a>  <a href='" + paper.materials[0].url + "' target='_blank' class='pub_down'>[download]</a>")
                                     .appendTo($item);
                             } else {
                                 $("<h4/>").addClass("pub-title")
