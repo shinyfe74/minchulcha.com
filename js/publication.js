@@ -19,19 +19,35 @@ $(document).ready(function(){
                     $.each(entry.Publication, function(index, paper) {
                         var paperId = type.replace(/\s+/g, '_') + "_" + (entries.length - index);
                         var $item = $("<li/>").attr("id", paperId);
-                        
+
+                        var icon = '';
+                        switch (paper.type) {
+                            case 'Paper':
+                                icon = '📜 ';
+                                break;
+                            case 'Conference':
+                                icon = '🎙️ ';
+                                break;
+                            case 'Dissertation':
+                                icon = '🎓 ';
+                                break
+                            default:
+                                icon = '';
+                        }
+
                         if (paper.url) {
+                            
                             if (paper.materials) {
                                 $("<h4/>").addClass("pub-title")
-                                    .html(" <a href='" + paper.materials[0].url + "' target='_blank'>" + paper.title + "</a>  <a href='" + paper.materials[0].url + "' target='_blank' class='pub_down'>[download]</a>")
+                                    .html(icon + " <a href='" + paper.materials[0].url + "' target='_blank'>" + paper.title + "</a>  <a href='" + paper.materials[0].url + "' target='_blank' class='pub_down'>[download]</a>")
                                     .appendTo($item);
                             } else {
                                 $("<h4/>").addClass("pub-title")
-                                    .html(paper.title + " <a href='" + paper.url + "' target='_blank' class='pub_down'>[paper]</a>")
+                                    .html(icon + paper.title + " <a href='" + paper.url + "' target='_blank' class='pub_down'>[paper]</a>")
                                     .appendTo($item);
                             }
                         } else {
-                            $("<div/>").addClass("pub-title").text(paper.title).appendTo($item);
+                            $("<div/>").addClass("pub-title").text(icon +paper.title).appendTo($item);
                         }
 
                         var authors = paper.authors.map(name => {
