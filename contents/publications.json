@@ -5,6 +5,40 @@
 					"Year": "2026",
 					"Publication": [
 						{
+							"title": "Do ethical AI principles matter to users? A large-scale analysis of user sentiment and satisfaction",
+							"authors": ["Stefan Pasch", "Min Chul Cha"],
+							"venue": "Telematics and Informatics",
+							"year": "2026.2",
+							"type": "Paper",
+							"rate": "",
+							"toappear": "",
+							"award": "",
+							"abstract": "",
+							"keyword": ["Eethical AI", "User sentiment", "User satisfaction"],
+							"materials": [
+								{"type": "Elsevier", "url": "https://authors.elsevier.com/sd/article/S0736-5853(26)00017-1"}
+							],
+							"img": "",
+							"url": "https://authors.elsevier.com/sd/article/S0736-5853(26)00017-1"
+						},
+						{
+							"title": "Optimizing Virtual Reality Meditation: Effects of Sitting and Lying Postures on Relaxation",
+							"authors": ["Chae Heon Lim", "Min Chul Cha", "Seul Chan Lee"],
+							"venue": "International Journal of Human–Computer Interaction",
+							"year": "2026.2",
+							"type": "Paper",
+							"rate": "",
+							"toappear": "",
+							"award": "",
+							"abstract": "",
+							"keyword": ["Virtual reality", "Meditation", "Posture", "Lying", "Sitting"],
+							"materials": [
+								{"type": "Taylor & Francis", "url": "https://www.tandfonline.com/doi/full/10.1080/10447318.2026.2629560"}
+							],
+							"img": "",
+							"url": "https://docs.google.com/uc?export=download&id=1yM3Gko41q5CoLBsjRQglBbQhQdwaUD2p"
+						},
+						{
 							"title": "Development and Validation of Generative AI Competence Scale (GenAIComp) among University Students",
 							"authors": ["Seul Chan Lee", "Tiju Baby", "Rattawut Vongvit", "Jieun Lee","Young Woo Kim","Min Chul Cha", "Sol Hee Yoon"],
 							"venue": "Technology in Society",
@@ -14,7 +48,7 @@
 							"toappear": "",
 							"award": "",
 							"abstract": "",
-							"keyword": ["Generative AI", "AI competenc", "Digital literacy", "GenAIComp"],
+							"keyword": ["Generative AI", "AI competence", "Digital literacy", "GenAIComp"],
 							"materials": [
 								{"type": "Elsevier", "url": "https://www.sciencedirect.com/science/article/pii/S0160791X25002490"}
 							],
