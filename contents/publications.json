@@ -356,6 +356,28 @@
 	
 	"Domestic Conference & Journal Papers": [
 		{
+			"Year": "2026",
+			"Publication": [
+				{
+					"title": "How does the media report on matters of national political crisis through the news photography of the politician?: VLM and BERTopic analysis of news photographs from the Chosun Ilbo, Dong-A Ilbo, Hankyoreh, and Kyunghyang Shinmun",
+					"authors": ["Seorae Hong", "Seung Ju Lee", "Younghwa Lee", "Chunsik Kim", "Min Chul Cha"],
+					"venue": "Journal of Political Communication, 80",
+					"year": "2026.03",
+					"type": "Paper",
+					"rate": "",
+					"toappear": "",
+					"award": "",
+					"abstract": "",
+					"keyword": ["Impeachment of the President", "News Photography", "Thematic Analysis", "VLM", "BERTopic"],
+					"materials": [
+						{"type": "KPCA", "url": "http://doi.org/10.35731/kpca.2026..80.002"}
+					],
+					"img": "",
+					"url": "http://doi.org/10.35731/kpca.2026..80.002"
+				}
+			]
+		},
+		{
 			"Year": "2025",
 			"Publication": [
 				{
