@@ -5,6 +5,57 @@
 					"Year": "2026",
 					"Publication": [
 						{
+							"title": "Understanding the Temporal Dynamics of User Experience in VR Gaming: Evidence from Large-Scale Game Reviews",
+							"authors": ["Hyunmin Kang", "Stefan Pasch", "Min Chul Cha"],
+							"venue": "Computers in Human Behavior",
+							"year": "2026.8",
+							"type": "Paper",
+							"rate": "",
+							"toappear": "",
+							"award": "",
+							"abstract": "",
+							"keyword": ["Virtual reality", "User experience", "Game reviews", "Temporal dynamics", "Cognitive-affective-behavioral framework", "Transformer-based text analysis"],
+							"materials": [
+								{"type": "Elsevier", "url": "https://doi.org/10.1016/j.chb.2026.109158"}
+							],
+							"img": "",
+							"url": "https://docs.google.com/uc?export=download&id=1Epwm2uKbQwN69Puh7Vkz_WXP0bkvx2cx"
+						},
+							{
+							"title": "Uneven by Design: How Generative AI Interfaces Reinforce Digital Divides Across Modalities",
+							"authors": ["Suhwan Jung","Sujeong Han","Gayoung Yoo","Stefan Pasch","Yong Gu Ji","Hyo Chang Kim", "Min Chul Cha"],
+							"venue": "International Journal of Human–Computer Interaction",
+							"year": "2026.8",
+							"type": "Paper",
+							"rate": "",
+							"toappear": "",
+							"award": "",
+							"abstract": "",
+							"keyword": ["Generative artificial intelligence (GenAI)", "human–AI interaction", "user experience design", "digital divide", "AI literacy"],
+							"materials": [
+								{"type": "Taylor & Francis", "url": "https://doi.org/10.1080/10447318.2026.2719091"}
+							],
+							"img": "",
+							"url": "https://docs.google.com/uc?export=download&id=1Sq8SAVTkyQWrFgMEPz6UrC1M4OZgFJ8H"
+						},						
+							{
+							"title": "Can distinguishing regenerative braking signal in electric vehicles improve following-vehicle safety?",
+							"authors": ["Jiyong Jang","Min Chul Cha","Myounghoon Jeon","Seul Chan Lee"],
+							"venue": "Accident Analysis & Prevention",
+							"year": "2026.11",
+							"type": "Paper",
+							"rate": "",
+							"toappear": "",
+							"award": "",
+							"abstract": "",
+							"keyword": ["Electric Vehicle", "Regenerative Braking", "Brake Light Design", "Following-Vehicle Safety"],
+							"materials": [
+								{"type": "Elsevier", "url": "https://doi.org/10.1016/j.aap.2026.108702"}
+							],
+							"img": "",
+							"url": "https://docs.google.com/uc?export=download&id=1dLQ8O8gjNpgqqM96qjM-xOGUPKgeBFmi"
+						},
+						{
 							"title": "Do ethical AI principles matter to users? A large-scale analysis of user sentiment and satisfaction",
 							"authors": ["Stefan Pasch", "Min Chul Cha"],
 							"venue": "Telematics and Informatics",
@@ -19,7 +70,7 @@
 								{"type": "Elsevier", "url": "https://authors.elsevier.com/sd/article/S0736-5853(26)00017-1"}
 							],
 							"img": "",
-							"url": "https://authors.elsevier.com/sd/article/S0736-5853(26)00017-1"
+							"url": "https://docs.google.com/uc?export=download&id=1lNbVImsSdEFET5dllcbwbtiBjdZwGwmP"
 						},
 						{
 							"title": "Optimizing Virtual Reality Meditation: Effects of Sitting and Lying Postures on Relaxation",
