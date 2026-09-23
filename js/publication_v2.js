@@ -11,7 +11,12 @@ $(document).ready(function(){
             "Unintended physical displacement during virtual reality exploration can lead to simulator sickness and collisions in real-world environments. This paper investigates the interaction effects between locomotion mechanics and steering techniques on unintended positional drift during extended VR navigation."
     };
 
-    $.getJSON("contents/publications.json", function(data) {
+    $.when(
+        $.getJSON("contents/publications_international.json"),
+        $.getJSON("contents/publications_domestic.json"),
+        $.getJSON("contents/publications_dissertation.json")
+    ).done(function(international, domestic, dissertation) {
+        var data = $.extend({}, international[0], domestic[0], dissertation[0]);
         $.each(data, function(type, entries) {
             if (!Array.isArray(entries)) return;
 

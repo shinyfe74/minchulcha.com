@@ -1,5 +1,10 @@
 $(document).ready(function(){
-    $.getJSON("contents/publications.json", function(data) {
+    $.when(
+        $.getJSON("contents/publications_international.json"),
+        $.getJSON("contents/publications_domestic.json"),
+        $.getJSON("contents/publications_dissertation.json")
+    ).done(function(international, domestic, dissertation) {
+        var data = $.extend({}, international[0], domestic[0], dissertation[0]);
         $.each(data, function(type, entries) {
             if (!Array.isArray(entries)) return; // 잘못된 데이터 구조 방지
 

@@ -1,0 +1,551 @@
+{
+	"Domestic Conference & Journal Papers": [
+		{
+			"Year": "2026",
+			"Publication": [
+				{
+					"title": "Evaluating Human Prompt Inference in Video Generative AI",
+					"authors": ["Sujeong Han", "Gayoung Yoo", "Yong Gu Ji", "Min Chul Cha"],
+					"venue": "Proceeding of 2026 Spring Conference of ESK",
+					"year": "2026.05",
+					"type": "Conference",
+					"rate": "",
+					"toappear": "",
+					"award": "",
+					"abstract": "",
+					"keyword": ["Generative AI", "Video Generation", "Prompt Inference", "Human-AI Interaction"],
+					"materials": [
+						{"type": "ESK", "url": "https://docs.google.com/uc?export=download&id=12_htSnEThLRUbWjE5HOft-W5iXqB4B6k"}
+					],
+					"img": "",
+					"url": "https://docs.google.com/uc?export=download&id=12_htSnEThLRUbWjE5HOft-W5iXqB4B6k"
+				},
+				{
+					"title": "Effects of Pedestrian Density, Lateral Distance, and eHMI on Discomfort in Human–Robot Encounters",
+					"authors": ["Suhwan Jung", "Hyo Chang Kim", "Min Chul Cha", "Young Woo Kim", "Yong Gu Ji", "Seul Chan Lee"],
+					"venue": "Proceeding of 2026 Spring Conference of ESK",
+					"year": "2026.05",
+					"type": "Conference",
+					"rate": "",
+					"toappear": "",
+					"award": "",
+					"abstract": "",
+					"keyword": ["Autonomous Mobile Robots", "Pedestrian Safety", "external-Human-Machine Interface", "Lateral Distance", "Pedestrian density"],
+					"materials": [
+						{"type": "ESK", "url": "https://docs.google.com/uc?export=download&id=1-0rwFTcrAQNzygHzpg5EKLdDhWEg-trV"}
+					],
+					"img": "",
+					"url": "https://docs.google.com/uc?export=download&id=1-0rwFTcrAQNzygHzpg5EKLdDhWEg-trV"
+				},
+				{
+					"title": "How does the media report on matters of national political crisis through the news photography of the politician?: VLM and BERTopic analysis of news photographs from the Chosun Ilbo, Dong-A Ilbo, Hankyoreh, and Kyunghyang Shinmun",
+					"authors": [
+						"Seorae Hong",
+						"Seung Ju Lee",
+						"Younghwa Lee",
+						"Chunsik Kim",
+						"Min Chul Cha"
+					],
+					"venue": "Journal of Political Communication, 80",
+					"year": "2026.03",
+					"type": "Paper",
+					"rate": "",
+					"toappear": "",
+					"award": "",
+					"abstract": "",
+					"keyword": [
+						"Impeachment of the President",
+						"News Photography",
+						"Thematic Analysis",
+						"VLM",
+						"BERTopic"
+					],
+					"materials": [
+						{
+							"type": "KPCA",
+							"url": "http://doi.org/10.35731/kpca.2026..80.002"
+						}
+					],
+					"img": "",
+					"url": "http://doi.org/10.35731/kpca.2026..80.002"
+				}
+			]
+		},
+		{
+			"Year": "2025",
+			"Publication": [
+				{
+					"title": "The Influence of Conversational Context on the Reproducibility of Demographic Characteristics in LLM Personas",
+					"authors": [
+						"Seung Ju Lee",
+						"Min Kyun Kim",
+						"Min Chul Cha"
+					],
+					"venue": "Proceeding of 2025 Autumn Conference of ESK",
+					"year": "2025.11",
+					"type": "Conference",
+					"rate": "",
+					"toappear": "",
+					"award": "",
+					"abstract": "",
+					"keyword": [
+						"Persona",
+						"LLM",
+						"Demographic Information",
+						"Multi-Turn Dialogue",
+						"System Prompts"
+					],
+					"materials": [
+						{
+							"type": "ESK",
+							"url": "https://docs.google.com/uc?export=download&id=1IkzyAcggvRFRFxl6zTokFjkxY6VCPupZ"
+						}
+					],
+					"img": "",
+					"url": "https://docs.google.com/uc?export=download&id=1IkzyAcggvRFRFxl6zTokFjkxY6VCPupZ"
+				},
+				{
+					"title": "AI-based AR Wire-Rope Inspection System: Effects of Error Rate and Explainability on User Experience",
+					"authors": [
+						"Semin Lim",
+						"Somin Lim",
+						"Seung Ju Lee",
+						"Jaeryung Kim",
+						"Min Chul Cha"
+					],
+					"venue": "Proceeding of 2025 Autumn Conference of ESK",
+					"year": "2025.11",
+					"type": "Conference",
+					"rate": "",
+					"toappear": "",
+					"award": "",
+					"abstract": "",
+					"keyword": [
+						"Augmented Reality",
+						"AR-DSS",
+						"Wire-rope inspection",
+						"Trust",
+						"Workload",
+						"Usability",
+						"Presence"
+					],
+					"materials": [
+						{
+							"type": "ESK",
+							"url": "https://docs.google.com/uc?export=download&id=1jZZoFtywuddJkZSe2EoCmO5gYsHYKpUD"
+						}
+					],
+					"img": "",
+					"url": "https://docs.google.com/uc?export=download&id=1jZZoFtywuddJkZSe2EoCmO5gYsHYKpUD"
+				},
+				{
+					"title": "Defining User Flows in Generative AI: A Systematic Multimodal Review from a UI/UX Perspective",
+					"authors": [
+						"Sujeong Han",
+						"Gayoung Yoo",
+						"Suhwan Jung",
+						"Hyochang Kim",
+						"Yonggu Ji",
+						"Minchul Cha"
+					],
+					"venue": "Proceeding of 2025 Autumn Conference of ESK",
+					"year": "2025.11",
+					"type": "Conference",
+					"rate": "",
+					"toappear": "",
+					"award": "",
+					"abstract": "",
+					"keyword": [
+						"Generative AI",
+						"Human-AI Interaction",
+						"User Interface Design",
+						"PRISMA"
+					],
+					"materials": [
+						{
+							"type": "ESK",
+							"url": "https://docs.google.com/uc?export=download&id=1XCbeEjCa2lIJ5FqBl64VAg0YulrIIiWX"
+						}
+					],
+					"img": "",
+					"url": "https://docs.google.com/uc?export=download&id=1XCbeEjCa2lIJ5FqBl64VAg0YulrIIiWX"
+				},
+				{
+					"title": "Effects of Visual Field of View on Postural Stability in a Virtual Reality Environment: A Preliminary Study",
+					"authors": [
+						"Chae Heon Lim",
+						"Min Chul Cha",
+						"Seul Chan Lee"
+					],
+					"venue": "Proceeding of 2025 Autumn Conference of ESK",
+					"year": "2025.11",
+					"type": "Conference",
+					"rate": "",
+					"toappear": "",
+					"award": "",
+					"abstract": "",
+					"keyword": [
+						"Virtual reality",
+						"Field of view",
+						"Postural stability"
+					],
+					"materials": [
+						{
+							"type": "ESK",
+							"url": "https://docs.google.com/uc?export=download&id=1lUsBXuCRH5b4ypMjd0PmxZ52AxApHmIb"
+						}
+					],
+					"img": "",
+					"url": "https://docs.google.com/uc?export=download&id=1lUsBXuCRH5b4ypMjd0PmxZ52AxApHmIb"
+				},
+				{
+					"title": "The Impact of Windshield Blackout on Flow States in Non-Driving Related Tasks (NDRT) in Level 5 Autonomous Driving",
+					"authors": [
+						"Jae Seung Mun",
+						"Min Chul Cha",
+						"Yong Gu Ji",
+						"Hyo Chang Kim"
+					],
+					"venue": "Journal of the Ergonomics Society of Korea, 43(6)",
+					"year": "2025.1",
+					"type": "Paper",
+					"rate": "",
+					"toappear": "",
+					"award": "",
+					"abstract": "",
+					"keyword": [
+						"Autonomous driving",
+						" Non-Driving Related Task (NDRT)",
+						"Wind shield",
+						"Flow state"
+					],
+					"materials": [
+						{
+							"type": "JESK",
+							"url": "https://jesk.or.kr/archive/detail/405?is_paper=y"
+						}
+					],
+					"img": "",
+					"url": "https://jesk.or.kr/archive/detail/405?is_paper=y"
+				}
+			]
+		},
+		{
+			"Year": "2024",
+			"Publication": [
+				{
+					"title": "Typologizing the user reviews of critics and general users with the BERTopic framework",
+					"authors": [
+						"Seungju Lee",
+						"Min Chul Cha"
+					],
+					"venue": "In Proceedings of 2024 Fall Ergonomics Society of Korea",
+					"year": "2024. 11.",
+					"type": "Conference",
+					"rate": "",
+					"toappear": "",
+					"award": "",
+					"abstract": "",
+					"keyword": "",
+					"materials": [
+						{
+							"type": "Abstract Only",
+							"url": "./publication.html"
+						}
+					],
+					"img": "",
+					"url": ""
+				},
+				{
+					"title": "Effects of Locomotion Methods and Turning Methods on Involuntary Movement in Virtual Environment: A Preliminary Study",
+					"authors": [
+						"Chae Heon Lim",
+						"Doheon Kim",
+						"Hwanhum Lee",
+						"Min Chul Cha",
+						"Seul Chan Lee"
+					],
+					"venue": "In Proceedings of 2024 Fall Ergonomics Society of Korea",
+					"year": "2024. 11.",
+					"type": "Conference",
+					"rate": "",
+					"toappear": "",
+					"award": "",
+					"abstract": "",
+					"keyword": "",
+					"materials": [
+						{
+							"type": "Abstract Only",
+							"url": "./publication.html"
+						}
+					],
+					"img": "",
+					"url": ""
+				},
+				{
+					"title": "Development of eHMI Design Factors from the Perspective of Road Users: A Systematic Literature Review",
+					"authors": [
+						"Yuhwa Hong",
+						"Suhwan Jung",
+						"Gyuhee Park",
+						"Yong Gu Ji",
+						"Min Chul Cha"
+					],
+					"venue": "Journal of the Ergonomics Society of Korea, 43(4)",
+					"year": "2024. 09. 08.",
+					"type": "Paper",
+					"rate": "",
+					"toappear": "",
+					"award": "",
+					"abstract": "",
+					"keyword": "",
+					"materials": [
+						{
+							"type": "DBpia",
+							"url": "https://jesk.or.kr/archive/detail/385"
+						}
+					],
+					"img": "",
+					"url": "https://jesk.or.kr/archive/detail/385"
+				},
+				{
+					"title": "Effects of Developer Characteristics and Usage Patterns on Trust in AI Coding Assistant",
+					"authors": [
+						"Young Woo Kim",
+						"Min Chul Cha",
+						"Sol Hee Yoon",
+						"Hyo Chang Kim",
+						"Seul Chan Lee"
+					],
+					"venue": "International Ergonomics Association(IEA) 2024",
+					"year": "2024. 08. 26.",
+					"type": "Conference",
+					"rate": "",
+					"toappear": "",
+					"award": "",
+					"abstract": "",
+					"keyword": "",
+					"materials": [
+						{
+							"type": "IEA2024",
+							"url": "https://www.iea2024.com/"
+						}
+					],
+					"img": "",
+					"url": ""
+				},
+				{
+					"title": "Investigation of Modality Selection and the Point of Switching: Focused on Voice and Touch Modalities",
+					"authors": [
+						"Yulim Kim",
+						"Hyo Chang Kim",
+						"Min Chul Cha"
+					],
+					"venue": "Journal of the Ergonomics Society of Korea, 42(6)",
+					"year": "2024. 01. 05.",
+					"type": "Paper",
+					"rate": "",
+					"toappear": "",
+					"award": "",
+					"abstract": "",
+					"keyword": "",
+					"materials": [
+						{
+							"type": "DBpia",
+							"url": "https://dx.doi.org/10.5143/JESK.2023.42.6.539"
+						}
+					],
+					"img": "",
+					"url": "https://docs.google.com/uc?export=download&id=1Wq5ihGw1mOvcso096xLwp6s3_xDU0E1T"
+				}
+			]
+		},
+		{
+			"Year": "~2023",
+			"Publication": [
+				{
+					"title": "A Usability Study on Smartphone Screen Transition Animation: Focused on Orientation and Duration(🏅Participantion Award)",
+					"authors": [
+						"박수정",
+						"차민철",
+						"이연주",
+						"박규희",
+						"김영우",
+						"지용구"
+					],
+					"venue": "2023년 대한인간공학회 추계공동학술대회",
+					"year": "2023. 11",
+					"type": "Conference",
+					"rate": "",
+					"toappear": "",
+					"award": "Participation Award",
+					"abstract": "",
+					"keyword": "",
+					"materials": [
+						{
+							"type": "ESK",
+							"url": "https://docs.google.com/uc?export=download&id=1x492RGKc18PhDMvFpBQ1MktzhTvGvthb"
+						}
+					],
+					"img": "",
+					"url": "https://docs.google.com/uc?export=download&id=1x492RGKc18PhDMvFpBQ1MktzhTvGvthb"
+				},
+				{
+					"title": "자율주행 차량에서 운전자의 효과적인 차량 인터페이스 조작을 위한 멀티모달시스템 연구 방안",
+					"authors": [
+						"Hyo Chang Kim",
+						"Yulim Kim",
+						"Min Chul Cha"
+					],
+					"venue": "2023년 대한산업공학회 춘계공동학술대회",
+					"year": "2023. 05",
+					"type": "Conference",
+					"rate": "",
+					"toappear": "",
+					"award": "",
+					"abstract": "",
+					"keyword": "",
+					"materials": [
+						{
+							"type": "DBpia",
+							"url": "https://www.dbpia.co.kr/journal/articleDetail?nodeId=NODE11472898"
+						}
+					],
+					"img": "",
+					"url": "https://docs.google.com/uc?export=download&id=1ka2XYbR-JS_SQXSaEYwjJpoJVQv0_OHV"
+				},
+				{
+					"title": "Investigation of Touch Button Size and Touch Screen Position of IVIS in a Driving Context",
+					"authors": [
+						"Seong Yong Bae",
+						"Min Chul Cha",
+						"Sol Hee Yoon",
+						"Seul Chan Lee"
+					],
+					"venue": "Journal of the Ergonomics Society of Korea, 42(1)",
+					"year": "2023. 03. 05.",
+					"type": "Paper",
+					"rate": "",
+					"toappear": "",
+					"award": "",
+					"abstract": "",
+					"keyword": "",
+					"materials": [
+						{
+							"type": "JESK",
+							"url": "https://www.jesk.or.kr/archive/detail/314?is_paper=y"
+						}
+					],
+					"img": "",
+					"url": "https://docs.google.com/uc?export=download&id=1h2HwMphIiB2waPcHV96zPPeMR_AsCDXo"
+				},
+				{
+					"title": "A Study on Sensibility Evaluation for Smartphone Camera Photography Based on Text Mining",
+					"authors": [
+						"Min Chul Cha",
+						"Cherin Lim",
+						"Jae Moon Sim",
+						"Da Yeong Kim",
+						"Yong Gu Ji"
+					],
+					"venue": "Proceedings of 2021 Fall Conference of ESK",
+					"year": "2021. 11",
+					"type": "Conference",
+					"rate": "",
+					"toappear": "",
+					"award": "",
+					"abstract": "",
+					"keyword": "",
+					"materials": [
+						{
+							"type": "DBpia",
+							"url": "https://www.dbpia.co.kr/journal/articleDetail?nodeId=NODE11043619"
+						}
+					],
+					"img": "",
+					"url": "https://docs.google.com/uc?export=download&id=15GXOV2iEbMrsyCSycPAbqDFzTQRetsoj"
+				},
+				{
+					"title": "Status Quo and Innovative Directions for Inpatient Fall Interventions",
+					"authors": [
+						"Ji Yea Lee",
+						"Juhee Lee",
+						"Yeonsoo Jang",
+						"Eun Chae Kim",
+						"Yong Gu Ji",
+						"Taezoon Park",
+						"Sang Yoon Um",
+						"Min Chul Cha",
+						"Yielin Kim"
+					],
+					"venue": "Journal of Korean Academy of Fundamentals of Nursing, 27(4)",
+					"year": "2020.11.30",
+					"type": "Paper",
+					"rate": "",
+					"toappear": "",
+					"award": "",
+					"abstract": "",
+					"keyword": "",
+					"materials": [
+						{
+							"type": "KAFN",
+							"url": "https://j.kafn.or.kr/journal/view.php?doi=10.7739/jkafn.2020.27.4.356"
+						}
+					],
+					"img": "",
+					"url": "https://docs.google.com/uc?export=download&id=1n1qdbcPm71rz7y4n_BXHXfNdCOieIlOg"
+				},
+				{
+					"title": "A Study on the Client Experience using Chatbot based on Counseling Theory",
+					"authors": [
+						"Ara Lee",
+						"Hyo Chang Kim",
+						"Min Chul Cha",
+						"Yong Gu Ji"
+					],
+					"venue": "Journal of the Ergonomics Society of Korea, 38(3)",
+					"year": "2019.06",
+					"type": "Paper",
+					"rate": "",
+					"toappear": "",
+					"award": "",
+					"abstract": "",
+					"keyword": "",
+					"materials": [
+						{
+							"type": "DBpia",
+							"url": "https://www.dbpia.co.kr/journal/articleDetail?nodeId=NODE08746588"
+						}
+					],
+					"img": "",
+					"url": "https://docs.google.com/uc?export=download&id=1GsoLAKExiTF2mde8z3IW0kr_PNK-Jv2L"
+				},
+				{
+					"title": "Usability Evaluation for User Interface of a Drone Remote Controller",
+					"authors": [
+						"Min Chul Cha",
+						"Bo Myeong Kim",
+						"Jiin Lee",
+						"Yong Gu Ji"
+					],
+					"venue": "Proceedings of 2016 Fall Conference of ESK",
+					"year": "2016.11",
+					"type": "Conference",
+					"rate": "",
+					"toappear": "",
+					"award": "",
+					"abstract": "",
+					"keyword": "",
+					"materials": [
+						{
+							"type": "DBpia",
+							"url": "https://www.dbpia.co.kr/journal/articleDetail?nodeId=NODE07093920"
+						}
+					],
+					"img": "",
+					"url": "https://docs.google.com/uc?export=download&id=1sOF0rsNo-rB1Gf3uomr31s-Z2v1x6j0R"
+				}
+			]
+		}
+	]
+}

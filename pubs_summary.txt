@@ -1,0 +1,249 @@
+=== International Conference & Journal Papers ===
+[1] (2026) [Paper] Understanding the Temporal Dynamics of User Experience in VR Gaming: Evidence from Large-Scale Game Reviews
+     Venue: Computers in Human Behavior (2026.8)
+     Paper URL: https://docs.google.com/uc?export=download&id=1Epwm2uKbQwN69Puh7Vkz_WXP0bkvx2cx
+     Materials: Elsevier: https://doi.org/10.1016/j.chb.2026.109158
+     Keywords: Virtual reality, User experience, Game reviews, Temporal dynamics, Cognitive-affective-behavioral framework, Transformer-based text analysis
+
+[2] (2026) [Paper] Uneven by Design: How Generative AI Interfaces Reinforce Digital Divides Across Modalities
+     Venue: International Journal of Human–Computer Interaction (2026.8)
+     Paper URL: https://docs.google.com/uc?export=download&id=1Sq8SAVTkyQWrFgMEPz6UrC1M4OZgFJ8H
+     Materials: Taylor & Francis: https://doi.org/10.1080/10447318.2026.2719091
+     Keywords: Generative artificial intelligence (GenAI), human–AI interaction, user experience design, digital divide, AI literacy
+
+[3] (2026) [Paper] Can distinguishing regenerative braking signal in electric vehicles improve following-vehicle safety?
+     Venue: Accident Analysis & Prevention (2026.11)
+     Paper URL: https://docs.google.com/uc?export=download&id=1dLQ8O8gjNpgqqM96qjM-xOGUPKgeBFmi
+     Materials: Elsevier: https://doi.org/10.1016/j.aap.2026.108702
+     Keywords: Electric Vehicle, Regenerative Braking, Brake Light Design, Following-Vehicle Safety
+
+[4] (2026) [Paper] Do ethical AI principles matter to users? A large-scale analysis of user sentiment and satisfaction
+     Venue: Telematics and Informatics (2026.2)
+     Paper URL: https://docs.google.com/uc?export=download&id=1lNbVImsSdEFET5dllcbwbtiBjdZwGwmP
+     Materials: Elsevier: https://authors.elsevier.com/sd/article/S0736-5853(26)00017-1
+     Keywords: Eethical AI, User sentiment, User satisfaction
+
+[5] (2026) [Paper] Optimizing Virtual Reality Meditation: Effects of Sitting and Lying Postures on Relaxation
+     Venue: International Journal of Human–Computer Interaction (2026.2)
+     Paper URL: https://docs.google.com/uc?export=download&id=1yM3Gko41q5CoLBsjRQglBbQhQdwaUD2p
+     Materials: Taylor & Francis: https://www.tandfonline.com/doi/full/10.1080/10447318.2026.2629560
+     Keywords: Virtual reality, Meditation, Posture, Lying, Sitting
+
+[6] (2026) [Paper] Development and Validation of Generative AI Competence Scale (GenAIComp) among University Students
+     Venue: Technology in Society (2026.3)
+     Paper URL: https://docs.google.com/uc?export=download&id=1deJjuSKVEuf7ylstGDKOHjfdelgZcOYr
+     Materials: Elsevier: https://www.sciencedirect.com/science/article/pii/S0160791X25002490
+     Keywords: Generative AI, AI competence, Digital literacy, GenAIComp
+
+[7] (2026) [Paper] The effects of locomotion and steering methods in virtual reality on unintended positional drift
+     Venue: Applied Ergonomics (2026.1)
+     Paper URL: https://docs.google.com/uc?export=download&id=15ECFsVwGqHq-pHphsWm1_2C6ksqAqDvL
+     Materials: Elsevier: https://doi.org/10.1016/j.apergo.2025.104652
+     Keywords: Virtual reality, Locomotion, Steering, Unintended positional drift
+
+[8] (2025) [Paper] Exploring UX Dimensions and Experience-Levels in VR Gaming: Insights from Online Reviews Using Transformer Models
+     Venue: International Journal of Human–Computer Interaction (2025.7)
+     Paper URL: https://docs.google.com/uc?export=download&id=1elE_ZWZCFuvw3Zv4cRtZWwVpBzza1tj8
+     Materials: Taylor & Francis: https://doi.org/10.1080/10447318.2025.2527839
+     Keywords: Virtual reality, user experience (UX), textual analysis, online reviews
+
+[9] (2025) [Paper] A Comparative Analysis Between Real Human and Virtual Human Interactions in an Academic Learning Context Using Emotion Recognition
+     Venue: International Journal of Human–Computer Interaction (2025.6)
+     Paper URL: https://docs.google.com/uc?export=download&id=18nwmYtrOaA4ItffUXVRt0DNbuPPeVN62
+     Materials: Taylor & Francis: https://doi.org/10.1080/10447318.2025.2512526
+     Keywords: Virtual Human, emotion analysis, academic learning, convolutional neural networks, human-avatar interactions
+
+[10] (2025) [Paper] Switching between touch and voice: factors influencing modality selection in multimodal systems
+     Venue: Ergonomics (2025.5)
+     Paper URL: https://docs.google.com/uc?export=download&id=1CmvT9ri0YAb8rJXyjmDECFNWjn22g-Sm
+     Materials: Taylor & Francis: https://doi.org/10.1080/00140139.2025.2499200
+     Keywords: Voice interaction, multimodal interface, modality selection, menu structure, interaction effort
+
+[11] (2025) [Conference] Balancing Privacy and Utility in Personal LLM Writing Tasks: An Automated Pipeline for Evaluating Anonymizations
+     Venue: 2025 Nations of the Americas Chapter of the Association for Computational Linguistics (NAACL 2025) (2025.4)
+     Paper URL: https://docs.google.com/uc?export=download&id=1dSxXDA538hgytedOhAu2AbjjaEJ230cW
+     Materials: NAACL: https://doi.org/10.18653/v1/2025.privatenlp-main.3
+     Keywords: LLM, Privacy, Entity
+
+[12] (2024) [Paper] Evaluation of Drag-and-Drop Task in Virtual Environment: Effects of Target Size and Movement Distance on Performances and Workload
+     Venue: International Journal of Human–Computer Interaction (2024.7)
+     Paper URL: https://docs.google.com/uc?export=download&id=1rFLERbkNiLBlUlARIiip6pcUJqikhmRs
+     Materials: Taylor & Francis: https://doi.org/10.1080/10447318.2023.2276531
+     Keywords: Virtual reality, drag-and-drop, target size, movement distance, task performance, workload
+
+[13] (2024) [Paper] Not Merely Useful but Also Amusing: Impact of Perceived Usefulness and Perceived Enjoyment on the Adoption of AI-Powered Coding Assistant
+     Venue: International Journal of Human–Computer Interaction (2024.7)
+     Paper URL: https://docs.google.com/uc?export=download&id=1IPZ4OomVfou-94QbOleJ7CSWy7krVhz7
+     Materials: Taylor & Francis: https://doi.org/10.1080/10447318.2024.2375701
+     Keywords: Artificial intelligence coding assistant (AI-CA), technology adoption, utilitarian and hedonic values, perceived enjoyment, structural equation modeling
+
+[14] (2024) [Paper] Physical loads on upper extremity muscles while interacting with virtual objects in an augmented reality context
+     Venue: Applied ergonomics (2024.7)
+     Paper URL: https://docs.google.com/uc?export=download&id=1dSJWEv1n5XtO9w49xORMBd_u5Kb7Liuf
+     Materials: Elsevier: https://doi.org/10.1016/j.apergo.2024.104340
+     Keywords: Augmented reality, Drag-and-drop task, Physical load, Electromyograph
+
+[15] (2024) [Paper] How Do Users Regulate Interaction Behaviors While Performing a Drag-and-Drop Task in a Virtual Reality Environment?
+     Venue: International Journal of Human–Computer Interaction (2024.4)
+     Paper URL: https://docs.google.com/uc?export=download&id=15-rp08knna4hDTG61aiCRs9CrJOhozBa
+     Materials: Taylor & Francis: https://doi.org/10.1080/10447318.2024.2342085
+     Keywords: Virtual reality, drag-and-drop, Fitts' law, interaction behavior, behavior segmentation
+
+[16] (~2023) [Paper] Context Matters: Understanding the Effect of Usage Contexts on Users’ Modality Selection in Multimodal Systems
+     Venue: International Journal of Human–Computer Interaction (2023.08)
+     Paper URL: https://docs.google.com/uc?export=download&id=1OQ2Mm0u2MqlFwKTT7yN2ci3rNBjj_w69
+     Materials: Taylor & Francis: https://doi.org/10.1080/10447318.2023.2250606
+     Keywords: m, u, l, t, i, m, o, d, a, l
+
+[17] (~2023) [Paper] The Unit and Size of Information Supporting Auditory Feedback for Voice User Interface
+     Venue: International Journal of Human–Computer Interaction (2023.02)
+     Paper URL: https://docs.google.com/uc?export=download&id=1fsmdGoBaWqAU1OhgeQRxUC68uCtFQZxj
+     Materials: Taylor & Francis: https://www.tandfonline.com/doi/full/10.1080/10447318.2023.2179214
+     Keywords: 
+
+[18] (~2023) [Paper] The impact of an agent’s voice in psychological counseling: Session evaluation and counselor rating
+     Venue: Applied Sciences, 11(7) (2021)
+     Paper URL: https://docs.google.com/uc?export=download&id=1alKie8CVSmfdK1Ll9cO8uqi947yl-fz1
+     Materials: mdpi: https://www.mdpi.com/2076-3417/11/7/2893
+     Keywords: 
+
+[19] (~2023) [Paper] The effect of empathy on human-agent interaction
+     Venue: ICIC Express Letters, Part B: Applications, 11(6), 551-557 (2020)
+     Paper URL: https://docs.google.com/uc?export=download&id=1TNxnrB3RB6RmjrzdBImTiAK_gBUofFPx
+     Materials: : 
+     Keywords: 
+
+[20] (~2023) [Paper] Investigating smartphone touch area with one-handed interaction: Effects of target distance and direction on touch behaviors
+     Venue: International Journal of Human–Computer Interaction, 35(16) (2019)
+     Paper URL: https://docs.google.com/uc?export=download&id=1drRtE8Hjf-rQa12ObzAIwUVAR6LYg7le
+     Materials: Taylor & Francis: https://www.tandfonline.com/doi/full/10.1080/10447318.2018.1554320
+     Keywords: 
+
+[21] (~2023) [Paper] Smartphone form factors: Effects of width and bottom bezel on touch performance, workload, and physical demand
+     Venue: Applied ergonomics, 67 (2018.02.01)
+     Paper URL: https://docs.google.com/uc?export=download&id=1UUgrlbPx_9aS8Pa6c0Xxk-lqkArOKfVl
+     Materials: Elsevier: https://www.sciencedirect.com/science/article/pii/S0003687017302247
+     Keywords: 
+
+[22] (~2023) [Conference] The effects of smartphone edge display on EMG activity of thumb muscles in one-handed interaction
+     Venue: The Japanese Journal of Ergonomics, 53 (2017.06.01)
+     Paper URL: https://docs.google.com/uc?export=download&id=1BvE-v7in61Nr9ySzVLJIXzHub2jX6rEn
+     Materials: JSTAGE: https://doi.org/10.5100/jje.53.S672
+     Keywords: 
+
+=== Domestic Conference & Journal Papers ===
+[23] (2026) [Paper] How does the media report on matters of national political crisis through the news photography of the politician?: VLM and BERTopic analysis of news photographs from the Chosun Ilbo, Dong-A Ilbo, Hankyoreh, and Kyunghyang Shinmun
+     Venue: Journal of Political Communication, 80 (2026.03)
+     Paper URL: http://doi.org/10.35731/kpca.2026..80.002
+     Materials: KPCA: http://doi.org/10.35731/kpca.2026..80.002
+     Keywords: Impeachment of the President, News Photography, Thematic Analysis, VLM, BERTopic
+
+[24] (2025) [Conference] The Influence of Conversational Context on the Reproducibility of Demographic Characteristics in LLM Personas
+     Venue: Proceeding of 2025 Autumn Conference of ESK (2025.11)
+     Paper URL: https://docs.google.com/uc?export=download&id=1IkzyAcggvRFRFxl6zTokFjkxY6VCPupZ
+     Materials: ESK: https://docs.google.com/uc?export=download&id=1IkzyAcggvRFRFxl6zTokFjkxY6VCPupZ
+     Keywords: Persona, LLM, Demographic Information, Multi-Turn Dialogue, System Prompts
+
+[25] (2025) [Conference] AI-based AR Wire-Rope Inspection System: Effects of Error Rate and Explainability on User Experience
+     Venue: Proceeding of 2025 Autumn Conference of ESK (2025.11)
+     Paper URL: https://docs.google.com/uc?export=download&id=1jZZoFtywuddJkZSe2EoCmO5gYsHYKpUD
+     Materials: ESK: https://docs.google.com/uc?export=download&id=1jZZoFtywuddJkZSe2EoCmO5gYsHYKpUD
+     Keywords: Augmented Reality, AR-DSS, Wire-rope inspection, Trust, Workload, Usability, Presence
+
+[26] (2025) [Conference] Defining User Flows in Generative AI: A Systematic Multimodal Review from a UI/UX Perspective
+     Venue: Proceeding of 2025 Autumn Conference of ESK (2025.11)
+     Paper URL: https://docs.google.com/uc?export=download&id=1XCbeEjCa2lIJ5FqBl64VAg0YulrIIiWX
+     Materials: ESK: https://docs.google.com/uc?export=download&id=1XCbeEjCa2lIJ5FqBl64VAg0YulrIIiWX
+     Keywords: Generative AI, Human-AI Interaction, User Interface Design, PRISMA
+
+[27] (2025) [Conference] Effects of Visual Field of View on Postural Stability in a Virtual Reality Environment: A Preliminary Study
+     Venue: Proceeding of 2025 Autumn Conference of ESK (2025.11)
+     Paper URL: https://docs.google.com/uc?export=download&id=1lUsBXuCRH5b4ypMjd0PmxZ52AxApHmIb
+     Materials: ESK: https://docs.google.com/uc?export=download&id=1lUsBXuCRH5b4ypMjd0PmxZ52AxApHmIb
+     Keywords: Virtual reality, Field of view, Postural stability
+
+[28] (2025) [Paper] The Impact of Windshield Blackout on Flow States in Non-Driving Related Tasks (NDRT) in Level 5 Autonomous Driving
+     Venue: Journal of the Ergonomics Society of Korea, 43(6) (2025.1)
+     Paper URL: https://jesk.or.kr/archive/detail/405?is_paper=y
+     Materials: JESK: https://jesk.or.kr/archive/detail/405?is_paper=y
+     Keywords: Autonomous driving,  Non-Driving Related Task (NDRT), Wind shield, Flow state
+
+[29] (2024) [Conference] Typologizing the user reviews of critics and general users with the BERTopic framework
+     Venue: In Proceedings of 2024 Fall Ergonomics Society of Korea (2024. 11.)
+     Paper URL: 
+     Materials: Abstract Only: ./publication.html
+     Keywords: 
+
+[30] (2024) [Conference] Effects of Locomotion Methods and Turning Methods on Involuntary Movement in Virtual Environment: A Preliminary Study
+     Venue: In Proceedings of 2024 Fall Ergonomics Society of Korea (2024. 11.)
+     Paper URL: 
+     Materials: Abstract Only: ./publication.html
+     Keywords: 
+
+[31] (2024) [Paper] Development of eHMI Design Factors from the Perspective of Road Users: A Systematic Literature Review
+     Venue: Journal of the Ergonomics Society of Korea, 43(4) (2024. 09. 08.)
+     Paper URL: https://jesk.or.kr/archive/detail/385
+     Materials: DBpia: https://jesk.or.kr/archive/detail/385
+     Keywords: 
+
+[32] (2024) [Conference] Effects of Developer Characteristics and Usage Patterns on Trust in AI Coding Assistant
+     Venue: International Ergonomics Association(IEA) 2024 (2024. 08. 26.)
+     Paper URL: 
+     Materials: IEA2024: https://www.iea2024.com/
+     Keywords: 
+
+[33] (2024) [Paper] Investigation of Modality Selection and the Point of Switching: Focused on Voice and Touch Modalities
+     Venue: Journal of the Ergonomics Society of Korea, 42(6) (2024. 01. 05.)
+     Paper URL: https://docs.google.com/uc?export=download&id=1Wq5ihGw1mOvcso096xLwp6s3_xDU0E1T
+     Materials: DBpia: https://dx.doi.org/10.5143/JESK.2023.42.6.539
+     Keywords: 
+
+[34] (~2023) [Conference] A Usability Study on Smartphone Screen Transition Animation: Focused on Orientation and Duration(🏅Participantion Award)
+     Venue: 2023년 대한인간공학회 추계공동학술대회 (2023. 11)
+     Paper URL: https://docs.google.com/uc?export=download&id=1x492RGKc18PhDMvFpBQ1MktzhTvGvthb
+     Materials: ESK: https://docs.google.com/uc?export=download&id=1x492RGKc18PhDMvFpBQ1MktzhTvGvthb
+     Keywords: 
+
+[35] (~2023) [Conference] 자율주행 차량에서 운전자의 효과적인 차량 인터페이스 조작을 위한 멀티모달시스템 연구 방안
+     Venue: 2023년 대한산업공학회 춘계공동학술대회 (2023. 05)
+     Paper URL: https://docs.google.com/uc?export=download&id=1ka2XYbR-JS_SQXSaEYwjJpoJVQv0_OHV
+     Materials: DBpia: https://www.dbpia.co.kr/journal/articleDetail?nodeId=NODE11472898
+     Keywords: 
+
+[36] (~2023) [Paper] Investigation of Touch Button Size and Touch Screen Position of IVIS in a Driving Context
+     Venue: Journal of the Ergonomics Society of Korea, 42(1) (2023. 03. 05.)
+     Paper URL: https://docs.google.com/uc?export=download&id=1h2HwMphIiB2waPcHV96zPPeMR_AsCDXo
+     Materials: JESK: https://www.jesk.or.kr/archive/detail/314?is_paper=y
+     Keywords: 
+
+[37] (~2023) [Conference] A Study on Sensibility Evaluation for Smartphone Camera Photography Based on Text Mining
+     Venue: Proceedings of 2021 Fall Conference of ESK (2021. 11)
+     Paper URL: https://docs.google.com/uc?export=download&id=15GXOV2iEbMrsyCSycPAbqDFzTQRetsoj
+     Materials: DBpia: https://www.dbpia.co.kr/journal/articleDetail?nodeId=NODE11043619
+     Keywords: 
+
+[38] (~2023) [Paper] Status Quo and Innovative Directions for Inpatient Fall Interventions
+     Venue: Journal of Korean Academy of Fundamentals of Nursing, 27(4) (2020.11.30)
+     Paper URL: https://docs.google.com/uc?export=download&id=1n1qdbcPm71rz7y4n_BXHXfNdCOieIlOg
+     Materials: KAFN: https://j.kafn.or.kr/journal/view.php?doi=10.7739/jkafn.2020.27.4.356
+     Keywords: 
+
+[39] (~2023) [Paper] A Study on the Client Experience using Chatbot based on Counseling Theory
+     Venue: Journal of the Ergonomics Society of Korea, 38(3) (2019.06)
+     Paper URL: https://docs.google.com/uc?export=download&id=1GsoLAKExiTF2mde8z3IW0kr_PNK-Jv2L
+     Materials: DBpia: https://www.dbpia.co.kr/journal/articleDetail?nodeId=NODE08746588
+     Keywords: 
+
+[40] (~2023) [Conference] Usability Evaluation for User Interface of a Drone Remote Controller
+     Venue: Proceedings of 2016 Fall Conference of ESK (2016.11)
+     Paper URL: https://docs.google.com/uc?export=download&id=1sOF0rsNo-rB1Gf3uomr31s-Z2v1x6j0R
+     Materials: DBpia: https://www.dbpia.co.kr/journal/articleDetail?nodeId=NODE07093920
+     Keywords: 
+
+=== Dissertation ===
+[41] () [Dissertation] Users' Modality Selection in Multimodal System
+     Venue: Yonsei Ph.D. Thesis, December 2022 (2022)
+     Paper URL: https://docs.google.com/uc?export=download&id=1f2iGDs1TMibopYwMUchmcQir2W_XMAKr
+     Materials: dCollection@YONSEI: http://www.dcollection.net/handler/yonsei/000000544979
+     Keywords: 
+
