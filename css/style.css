@@ -920,6 +920,10 @@ button.main_bt {
 }
 
 .pub_abstract_btn {
+    background: none;
+    border: 0;
+    padding: 0;
+    font-family: inherit;
     cursor: pointer;
     display: inline-flex;
     align-items: center;
@@ -989,11 +993,20 @@ button.main_bt {
 }
 
 .pub-abstract-text {
+    white-space: pre-line;
     font-size: 13.5px;
     line-height: 1.65;
     color: #333333;
     margin: 0;
     text-align: justify;
+}
+
+.pub-abstract-source {
+    display: inline-block;
+    margin-top: 8px;
+    font-size: 12px;
+    color: saddlebrown;
+    text-decoration: underline;
 }
 
 .pub-abstract-keywords {

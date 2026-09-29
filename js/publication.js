@@ -15,14 +15,14 @@ $(document).ready(function(){
             var $ul = $("<ul/>").addClass("publication");
             $section.append($ul);
 
-            $.each(entries, function(_, entry) {
+            $.each(entries, function(entryIndex, entry) {
                 if (entry.Year) {
                     var $yearHeader = $("<h2/>").addClass("year-header pub-title mt-3").text("[" + entry.Year + "]");
                     $ul.append($yearHeader);
                 }
                 if (entry.Publication) {
                     $.each(entry.Publication, function(index, paper) {
-                        var paperId = type.replace(/\s+/g, '_') + "_" + (entries.length - index);
+                        var paperId = type.replace(/[^a-zA-Z0-9]+/g, '_') + "_" + entryIndex + "_" + index;
                         var abstractBoxId = "abstract_" + paperId;
                         var $item = $("<li/>").attr("id", paperId);
 
@@ -59,17 +59,17 @@ $(document).ready(function(){
                             return name.includes("Min Chul Cha") ? `<span class='author'>${name}</span>` : name;
                         }).join(", ");
                         $("<div/>").addClass("authors").html(authors).appendTo($item);
-                        
+
                         $("<span/>").addClass("venue").text(paper.venue + " ").appendTo($item);
                         $("<span/>").addClass("year").text("(" + paper.year + ") ").appendTo($item);
-                        
+
                         if (paper.toappear) {
                             $("<span/>").addClass("toappear").text(paper.toappear).appendTo($item);
                         }
                         if (paper.award) {
                             $("<span/>").addClass("award").text(paper.award).appendTo($item);
                         }
-                        
+
                         if (paper.materials) {
                             paper.materials.forEach(function(m) {
                                 $("<span/>").addClass("material")
@@ -79,12 +79,12 @@ $(document).ready(function(){
                         }
 
                         // Abstract toggle button & collapsible box (activated when paper.abstract is present)
-                        if (paper.abstract && paper.abstract.trim() !== "") {
-                            var $abstractBtn = $("<a/>")
-                                .attr("href", "javascript:void(0);")
+                        if (typeof paper.abstract === "string" && paper.abstract.trim() !== "") {
+                            var $abstractBtn = $("<button/>")
+                                .attr("type", "button")
                                 .addClass("pub_down pub_abstract_btn")
-                                .attr("role", "button")
                                 .attr("aria-expanded", "false")
+                                .attr("aria-controls", abstractBoxId)
                                 .attr("data-target", abstractBoxId)
                                 .html('[abstract <i class="fa fa-caret-down"></i>]');
 
@@ -114,8 +114,17 @@ $(document).ready(function(){
 
                             $("<p/>").addClass("pub-abstract-text").text(paper.abstract.trim()).appendTo($abstractBox);
 
+                            if (paper.abstract_source) {
+                                $("<a/>").addClass("pub-abstract-source")
+                                    .attr("href", paper.abstract_source)
+                                    .attr("target", "_blank")
+                                    .attr("rel", "noopener noreferrer")
+                                    .text("Abstract source")
+                                    .appendTo($abstractBox);
+                            }
+
                             // Keywords tags if available
-                            if (paper.keyword && paper.keyword.length > 0) {
+                            if (Array.isArray(paper.keyword) && paper.keyword.length > 0) {
                                 var $keywordsRow = $("<div/>").addClass("pub-abstract-keywords");
                                 $("<span/>").addClass("pub-abstract-keywords-title").text("Keywords:").appendTo($keywordsRow);
                                 paper.keyword.forEach(function(kw) {
@@ -127,14 +136,14 @@ $(document).ready(function(){
                             // Click events for toggle
                             $abstractBtn.on("click", function(e) {
                                 e.preventDefault();
-                                var isCurrentlyHidden = $abstractBox.is(":hidden");
+                                var isCurrentlyHidden = $abstractBtn.attr("aria-expanded") !== "true";
                                 if (isCurrentlyHidden) {
-                                    $abstractBox.slideDown(220);
+                                    $abstractBox.stop(true, true).slideDown(220);
                                     $abstractBtn.addClass("active")
                                         .attr("aria-expanded", "true")
                                         .html('[abstract <i class="fa fa-caret-up"></i>]');
                                 } else {
-                                    $abstractBox.slideUp(200);
+                                    $abstractBox.stop(true, true).slideUp(200);
                                     $abstractBtn.removeClass("active")
                                         .attr("aria-expanded", "false")
                                         .html('[abstract <i class="fa fa-caret-down"></i>]');
@@ -143,15 +152,16 @@ $(document).ready(function(){
 
                             $closeBtn.on("click", function(e) {
                                 e.preventDefault();
-                                $abstractBox.slideUp(200);
+                                $abstractBox.stop(true, true).slideUp(200);
                                 $abstractBtn.removeClass("active")
                                     .attr("aria-expanded", "false")
                                     .html('[abstract <i class="fa fa-caret-down"></i>]');
+                                $abstractBtn.trigger("focus");
                             });
 
                             $item.append($abstractBox);
                         }
-                        
+
                         $ul.append($item);
                     });
                 }
@@ -161,11 +171,15 @@ $(document).ready(function(){
         // Handle URL hash scrolling
         if (window.location.hash) {
             var hash = window.location.hash.substring(1);
-            var $target = $("#" + hash);
+            var $target = $(document.getElementById(hash));
             if ($target.length) {
                 $target.addClass("anchored");
                 $(document).scrollTop($target.offset().top);
             }
         }
+    }).fail(function() {
+        $("<p/>").attr("role", "alert")
+            .text("Unable to load publications. Please refresh the page to try again.")
+            .appendTo("#main");
     });
 });

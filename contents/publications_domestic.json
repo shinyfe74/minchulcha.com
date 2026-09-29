@@ -52,7 +52,8 @@
 					"rate": "",
 					"toappear": "",
 					"award": "",
-					"abstract": "",
+					"abstract": "정치적 위기 상황에서 언론의 보도사진은 사건이나 인물의 특정 방식을 의미화하는 프레임으로 작동하며, 유권자의 정치적 인식과 해석 과정에 영향을 미칠 수 있다. 본 연구는 윤석열 대통령의 정치적 위기 상황을 중심으로, 《조선일보》, 《동아일보》, 《한겨레》, 《경향신문》의 보도사진 총 683건을 분석하였다. 대규모 언어 모델을 기반으로 하는 VLM인 LLaMA4를 분석 도구로 활용하여 편집 방식과 장소, 얼굴 표정, 시선, 동작을 인식하게 하여 이를 통해 사진의 주제와 맥락적 의미를 기술하도록 하였다. 또한 VLM 분석 내용을 BERTopic 모델링으로 분석하여 담론적 주제와 프레임 경향을 종합적으로 파악하였다. 시기에 따른 보도량 분석 결과 언론사에 따라 통계적으로 유의하게 나타났다. 토픽 모델링 분석 결과, 모든 언론사는 비상계엄 선포와 이후 사법적, 제도적 절차라는 공통된 사안을 다루고 있었으나 보도경향에는 뚜렷한 차이가 나타났다.\n《조선일보》와 《동아일보》는 대통령의 행위와 절차의 수행 과정을 중심으로 보도한 반면, 《한겨레》와 《경향신문》은 정치적 행위자 간의 관계를 중심으로 구조적으로 보도하려는 경향을 보였다. 연구 결과는 사안이 진행되면서 언론사들이 과정을 동일한 맥락에서 보도하기보다 각 언론이 지닌 이념적 정체성에 따른 상이한 프레임을 형성하는 경향이 있음을 시사한다.",
+					"abstract_source": "https://doi.org/10.35731/kpca.2026..80.002",
 					"keyword": [
 						"Impeachment of the President",
 						"News Photography",
@@ -212,7 +213,8 @@
 					"rate": "",
 					"toappear": "",
 					"award": "",
-					"abstract": "",
+					"abstract": "Objective: To investigate how the blackout of natural driving visual information on the windshield in Level 5 autonomous driving impacts passengers' flow states during non-driving related tasks (NDRTs).\nBackground: As Level 5 autonomous driving technology progresses, passengers are no longer required to engage in driving, allowing full focus on NDRTs. Prior research has primarily focused on Level 3 autonomous driving, examining driver handover scenarios and the necessary visual information. However, in a fully autonomous setting where no driver intervention is required, understanding the influence of visual information on NDRT engagement is essential.\nMethod: This study employed a Level 5 autonomous driving simulator with 27 participants performing NDRTs, specifically video watching and gaming tasks, under both conditions: with and without windshield visual information. An ANOVA analysis was conducted to evaluate the effect of visual information control on NDRT flow states.\nResults: The findings showed a significant decrease in NDRT flow states when windshield visual information was blocked. Notably, participants with driving licenses experienced a pronounced impact, while those without licenses showed no significant difference in flow states between conditions.\nConclusion: The blackout of windshield visual information affects NDRT flow states, particularly for participants with prior driving experience, highlighting the need to reconsider in-car interface design and information presentation in Level 5 autonomous vehicles.\n\nApplication: This study offers valuable insights for optimizing NDRT experiences in fully autonomous vehicles, informing strategies for visual information control and user interface design.",
+					"abstract_source": "https://jesk.or.kr/archive/detail/405?is_paper=y",
 					"keyword": [
 						"Autonomous driving",
 						" Non-Driving Related Task (NDRT)",
@@ -297,7 +299,8 @@
 					"rate": "",
 					"toappear": "",
 					"award": "",
-					"abstract": "",
+					"abstract": "Objective: The aim of this study is to present eHMI design factors for effective communication between autonomous vehicles and various road users.\n\nBackground: With the advent of smart cities and the acceleration of research on self-driving vehicles, eHMI also needs application standards for commercialization, and current studies have mixed results on effectiveness to consider in actual eHMI design, and there are no clear design standards as eHMI are newly emerging vehicle devices.\nMethod: A systematic review method was applied to present integrated eHMI design standards, and 48 literatures related to eHMI research considering ergonomic aspects were selected and analyzed.\n\nResults: It presents eight design factors (Placement, Distance, Vehicle Scale, Message, Color, Modality, System Mode, Information Mode) that eHMI should consider and includes explicit guidance in each criterion.\nConclusion: By presenting integrated ergonomic results beyond the technical point of view of a vehicle-to-person communication tool called eHMI, it is possible to present standards for eHMI design that consider the effectiveness of existing mechanical characteristics as well as the impact on road users.\n\nApplication: This study established design factors based on the characteristics of eHMI and can be used as basic data for eHMI applicable to actual development.",
+					"abstract_source": "https://jesk.or.kr/archive/detail/385",
 					"keyword": "",
 					"materials": [
 						{
@@ -347,7 +350,8 @@
 					"rate": "",
 					"toappear": "",
 					"award": "",
-					"abstract": "",
+					"abstract": "Objective: This study aimed to identify the optimal point of switching between voice and touch modalities for modality selection, regarding the number of characters and hierarchy-based menu structures.\n\nBackground: Technological advances have enabled the development of multimodal interaction in modern smart devices. Selecting the most adequate modality during interaction with devices is crucial since the interface is regarded as a significant element that can enhance usability and overall satisfaction.\nMethod: To achieve the research objective, the experiment was carried out by developing a modality selection task program through JavaScript. The experiment included three distinct tasks: Text entry, Simple keyboard touch, and Hierarchy menu. During the modality selection task, participants were given the option to select the more efficient modality between voice and touch modalities based on their preference.\nResults: The Text entry task evaluated the point of switching modalities based on the number of characters, but no significant difference was found in the probability of voice usage between the number of characters. Therefore, the syllable per touch ratio was adopted as an alternative measure in the Simple keyboard touch and Hierarchy menu tasks.\nA significant difference was found in the predicted probability of voice usage between the syllable per touch, identifying the optimal point of switching modalities, reaching up to two and five syllables per touch, respectively.\nConclusion: The results indicate that the point at which users switch between voice and touch modalities depends on the menu structure, and the syllable per touch ratio is a critical factor to consider in modality selection.\n\nApplication: The findings of this study provide significant insights for developers aiming to design multimodal interactions for various menu structures.",
+					"abstract_source": "https://jesk.or.kr/archive/detail/353?is_paper=y",
 					"keyword": "",
 					"materials": [
 						{
@@ -428,7 +432,8 @@
 					"rate": "",
 					"toappear": "",
 					"award": "",
-					"abstract": "",
+					"abstract": "Objective: The present study aims to investigate the effect of touch-button size and touchscreen position of in-vehicle information system (IVIS) on task performance, glance behavior and subjective workload.\n\nBackground: Touchscreen interface becomes popular in a driving context. Although touchscreen based IVIS has merits to provide more functions and information for drivers, previous studies pointed out that it can negatively affect driving behaviors and distractions.\nMethod: To achieve the research objective, we conducted a driving simulation experiment involving both driving and non-driving tasks. A 2×2 within-subject design with touch-button size (1cm, 1.5cm, 2cm) and touchscreen position (bottom, mid, top) was designed. We measured touch task performance, glance behaviors, and subjective workload while performing tasks in different task conditions.\nResults: Overall, the result indicated that task performance increased, visual distraction and subjective workload were lower when touch-button size increases and touchscreen placed upward.\n\nConclusion: Design variables of touch user interface in a driving context should be carefully designed considering driving behaviors.\n\nApplication: The results in this study can provide insights into the design of touchscreen-based IVIS.",
+					"abstract_source": "https://www.jesk.or.kr/archive/detail/314",
 					"keyword": "",
 					"materials": [
 						{
@@ -484,7 +489,8 @@
 					"rate": "",
 					"toappear": "",
 					"award": "",
-					"abstract": "",
+					"abstract": "Purpose: The purpose of this study was to explore nurses’ experience of falls, and their perception of the status quo of inpatient fall interventions.\n\nMethods: The participants were 28 ward nurses in a university hospital, Seoul, Korea. Five focus group interviews and three individual interviews were conducted. The interviews were analyzed using thematic analysis.\n\nResults: The findings from this study suggest that nurses face limitations in providing conventional fall interventions due to patient disease related characteristics, situations in hospital, and medical devices used in the hospital settings. Although nurses adopted their own strategies to prevent falls effectively, they expressed the need for innovative approaches to overcome these limitations.\n\nConclusion: Systematic, technology-based approaches are needed to create a safer physical environment and to improve current nursing interventions to prevent falls.",
+					"abstract_source": "https://doi.org/10.7739/jkafn.2020.27.4.356",
 					"keyword": "",
 					"materials": [
 						{
@@ -509,7 +515,8 @@
 					"rate": "",
 					"toappear": "",
 					"award": "",
-					"abstract": "",
+					"abstract": "Objective: The purpose of this study is to analyze client experience on the counseling chatbot and provide design implications for counseling chatbot based on artificial intelligence.\nBackground: Only a few people with psychological problems are consulted with psychotherapists. This is due to the physical limitations and psychological burden of face-to-face counseling. By adopting the technology of artificial intelligence, we identified the possibility of overcoming the limitation of the existing counseling method.\nMethod: Based on the counseling theory, we classified psychological counseling process into five stages: diagnosis, exploration, understanding, action, and evaluation. In addition, a counseling scenario covering from stage of diagnosis to understanding was designed and implemented through 'KakaoTalk Plus Friend' based on Java-based platform. 78 participants were recruited and they were the students of University.\nAll participants were counseled by the chatbot on depressed situations and were interviewed on overall experience at the end.\nResults: Based on the thematic analysis, four themes were derived: chance of self-insight, trust in anonymity, lack of non-verbal cues, and effects of counselor's identity.\nConclusion: The artificial intelligence counseling system can provide psychological relief to the clients. However, in order to design a chat-based consulting system, the characteristics of the chatbot must be considered. Also, the level of anthropomorphism of artificial intelligence agent should be designed appropriately for psychological counseling.\n\nApplication: The results of this study can be used as basic data to assist development of AI-based counseling system.",
+					"abstract_source": "https://www.jesk.or.kr/archive/detail/140?is_paper=y",
 					"keyword": "",
 					"materials": [
 						{
@@ -534,7 +541,8 @@
 					"rate": "",
 					"toappear": "",
 					"award": "",
-					"abstract": "",
+					"abstract": "Objective: The aim of this study is to investigate the usability factors influencing drone controllers and suggest the usability principles for designing a drone controller. Background: Recent interest of drones has been developing over the years. This is why drones have been used in various fields such as agriculture, service, distribution and leisure, as well as the military.\nHowever, as the utilization and variation of drones has expanded, several problems and violations of privacy and the Aviation Act have also been committed through the use of these drones. One of the most critical problems is an accident due to an error of drone controllers. This is caused by the difference between human and machine. Method: We conducted a heuristic evaluation with experts in this filed.\nWe reviewed prior studies on system controllers in order to investigate the usability factors influencing the drone controllers. Then, we conducted a card sorting method to categorize themes and factors related to drone controllers, and based on these factors, we conducted the user evaluation and interviews with 10 participants. Result: Nine factors and thirty-one problems influencing drone controllers were derived through heuristic evaluation.\nRanking of usability factors was determined through user evaluation. Conclusion: Based on our results, perceived controllability and intuitiveness were the most important factors in accordance with drone controllers.",
+					"abstract_source": "https://www.dbpia.co.kr/journal/articleDetail?nodeId=NODE07093920",
 					"keyword": "",
 					"materials": [
 						{

@@ -16,7 +16,7 @@
 					"rate": "",
 					"toappear": "",
 					"award": "",
-					"abstract": "",
+					"abstract": "Virtual reality (VR) challenges static views of user experience (UX), yet little is known about how evaluations shift over time. This study investigates the temporal dynamics of VR UX by focusing on three factors: playtime, post-release time, and Early Access (EA) status. We analyze 351,432 Steam reviews across 334 VR titles (2016–2024), applying transformer-based classifiers to detect sentiment for seven UX dimensions (immersion, presence, engagement, achievement, embodiment, controllability, and physical discomfort). Using the Cognitive-Affective-Behavioral (CAB) framework, we assess how these dimensions shape recommendations under varying temporal conditions. Results show distinct temporal patterns. Longer playtime shifts attention from pragmatic concerns to hedonic aspects, while sentiment becomes more positive overall. However, extended play reduces the weight of every single UX factor in recommendation decisions. In contrast, reviews of older games mention fewer UX dimensions and display more negative sentiment, though sentiment for specific dimensions becomes more predictive of recommendation. Finally, EA reviews are more positive, mention more UX dimensions overall but tend to downplay physical-discomfort concerns, and exhibit weaker links between sentiment and recommendation, reflecting tolerant, forward-looking evaluations. These findings advance UX theory by integrating temporal context into models of emerging technologies, showing that UX is not static but evolves with users’ time investment and product maturity. Furthermore, we discuss the practical implications of incorporating temporal factors into game development and user management.",
 					"keyword": [
 						"Virtual reality",
 						"User experience",
@@ -51,13 +51,15 @@
 					"rate": "",
 					"toappear": "",
 					"award": "",
-					"abstract": "",
+					"abstract": "Uneven interface design in generative AI (GenAI) systems risk amplifying digital divides across education, work, and creative production.  We first synthesize 207 peer-reviewed studies following PRISMA guidelines to derive a six-phase interaction framework (Orientation, Input, Generation, Output Evaluation, Refinement, and Export) that captures end-to-end user experience. We then apply this framework  to cross-modal feature mapping of 20 representative GenAI tools spanning text, image, video, and audio. Our analysis reveals a consistent structural imbalance: more than 60 percent of reviewed studies concentrate on early-stage functions such as onboarding and prompt formulation, while providing limited support for reflection, verification, and iterative improvement. This imbalance varies across modalities, with image and video systems offering richer exploratory affordances, and text and audio tools depending more heavily on preexisting user literacy. We propose three design directions to support more accountable GenAI adoption, including cyclical interaction workflows, cross-modal consistency standards, and embedded learning scaffolds.",
+					"abstract_source": "https://www.tandfonline.com/doi/full/10.1080/10447318.2026.2719091",
 					"keyword": [
-						"Generative artificial intelligence (GenAI)",
-						"human–AI interaction",
-						"user experience design",
-						"digital divide",
-						"AI literacy"
+						"Virtual reality",
+						"User experience",
+						"Game reviews",
+						"Temporal dynamics",
+						"Cognitive-affective-behavioral framework",
+						"Transformer-based text analysis"
 					],
 					"materials": [
 						{
@@ -82,7 +84,8 @@
 					"rate": "",
 					"toappear": "",
 					"award": "",
-					"abstract": "",
+					"abstract": "The rapid adoption of electric vehicles (EV) introduces a safety concern regarding regenerative braking, which often causes significant deceleration without activating traditional brake lights. This can lead following drivers to be unable to timely perceive abrupt deceleration, increasing the risk of collisions. To address this gap, this study investigated the effects of a novel brake light system (one that distinguishes between friction and regenerative braking using red and green lights) on the driving behaviors and perceptions of following drivers. We designed and conducted a within-subject driving simulator study with 24 young drivers. The results showed that the new system led improved driving maintenance performance, enhanced braking behavior efficiency, reducing the number of brake pedal pressures and foot transitions. Further, drivers provided better subjective evaluations, reporting lower workload (NASA-TLX), higher usability (SUS), and increased trust. It can be concluded that newly suggested braking light system for regenerative braking can mitigate driver fatigue and improve perceived safety when following EVs.",
+					"abstract_source": "https://www.sciencedirect.com/science/article/pii/S0001457526003118",
 					"keyword": [
 						"Electric Vehicle",
 						"Regenerative Braking",
@@ -110,7 +113,8 @@
 					"rate": "",
 					"toappear": "",
 					"award": "",
-					"abstract": "",
+					"abstract": "As AI systems become increasingly embedded in organizational workflows and consumer applications, ethical principles such as fairness, transparency, and robustness have been widely endorsed in policy and industry guidelines. However, there is still scarce empirical evidence on whether these principles are recognized, valued, or impactful from the perspective of users. This study investigates the link between ethical AI and user satisfaction by analyzing over 100,000 user reviews of AI products from G2.com. Using transformer-based language models, we measure sentiment across seven ethical dimensions defined by the EU Ethics Guidelines for Trustworthy AI. Our findings show that all seven dimensions are positively associated with user satisfaction. Yet, this relationship varies systematically across user and product types. Technical users and reviewers of AI development platforms more frequently discuss system-level concerns (e.g., transparency, data governance), while non-technical users and reviewers of end-user applications emphasize human-centric dimensions (e.g., human agency, societal well-being). Moreover, the association between ethical AI and user satisfaction is significantly stronger for non-technical users and end-user applications across all dimensions. Our results highlight the importance of ethical AI design from users’ perspectives and underscore the need to account for contextual differences across user roles and product types.",
+					"abstract_source": "https://www.sciencedirect.com/science/article/pii/S0736585326000171",
 					"keyword": [
 						"Eethical AI",
 						"User sentiment",
@@ -138,7 +142,8 @@
 					"rate": "",
 					"toappear": "",
 					"award": "",
-					"abstract": "",
+					"abstract": "Virtual reality (VR) meditation has emerged as a promising approach for promoting emotional and physiological relaxation. The influence of body posture on relaxation outcomes during VR meditation, however, remains underexplored. This study examined differences between sitting and lying postures during VR meditation using subjective questionnaires and heart rate variability (HRV). Fifteen participants completed VR meditation in both postures in a within-subject design. Subjective measures included the Short Stress State Questionnaire (SSSQ), Positive and Negative Affect Schedule (PANAS), Meditation Depth Questionnaire (MEDEQ), and Slater-Usoh-Steed Questionnaire (SUS). Physiological responses were assessed via HRV. Results indicated that VR meditation reduced stress and negative affect in both postures. The lying posture elicited stronger relaxation responses, with greater meditation depth and increased parasympathetic activation. These findings suggest that posture is an important design consideration for VR meditation. Future research with larger and more diverse samples is recommended.",
+					"abstract_source": "https://www.tandfonline.com/doi/full/10.1080/10447318.2026.2629560",
 					"keyword": [
 						"Virtual reality",
 						"Meditation",
@@ -172,7 +177,8 @@
 					"rate": "",
 					"toappear": "",
 					"award": "",
-					"abstract": "",
+					"abstract": "The rapid development of Generative Artificial Intelligence (Generative AI) across several sectors underscores the need for a systematic tool to evaluate AI competence. Current digital literacy frameworks lack AI-specific competencies, resulting in inconsistencies in the assessment of AI competence. This study aims to establish a standardized assessment framework for Generative AI competence by identifying key skill factors and empirically validating a structured evaluation tool called the Generative AI Competence Scale (GenAIComp). The proposed GenAIComp has five essential factors: Information and Data Literacy, Communication and Collaboration, Digital Content Creation, Safety and Ethics, and Problem-Solving. A quantitative approach was employed, incorporating expert validation, pilot testing, and extensive empirical evaluation involving 1000 participants, principally university students. The factor analysis confirmed a robust 5-factor structure with strong psychometric properties. The final model demonstrated excellent fit indices, confirming its reliability and validity in assessing Generative AI competence across the five key factors. Research demonstrates that educational background considerably impacts AI competence, with individuals from technical disciplines showing a greater aptitude for problem-solving and content generation. Gender-based disparities were noted, with males achieving marginally higher scores in several factors, but with minimal effect sizes. Correlation analysis indicated that perceived AI expertise and frequency of AI utilization significantly influenced competence, especially in data literacy and problem-solving, and exhibited less correlation with ethical awareness. GenAIComp provides a reliable tool for assessing AI competence, helping educators, industry experts, and policymakers to design AI training programs and integrate AI literacy into curricula and thereby AI technology advancement in society. Future research should explore its applicability across cultures and include performance-based assessments to enhance AI competence.",
+					"abstract_source": "https://www.sciencedirect.com/science/article/pii/S0160791X25002490",
 					"keyword": [
 						"Generative AI",
 						"AI competence",
@@ -203,7 +209,8 @@
 					"rate": "",
 					"toappear": "",
 					"award": "",
-					"abstract": "",
+					"abstract": "Unintended positional drift (UPD) is an important factor during virtual reality (VR) use, as it may contribute to safety risks diminishing user experience, potentially hindering the broader adoption of VR technology. This study investigated the effects of locomotion and steering methods on UPD through a 2 × 2 within-subject experiment. We selected two locomotion methods (joystick and teleportation) and two steering methods (controller-based and physical-based). Thirty-two participants (16 males and 16 females; mean age = 22.65 years, SD = 2.06) completed a VR task under all four conditions. Joystick locomotion resulted in significantly greater movement variance (MV) compared to teleportation, leading to higher Y-axis MV per minute (MVY: p = .043) and significantly longer task completion time (TCT: p = .002). For subjective measures, joystick locomotion also produced higher body movement cognition (BMC) (p = .001) and greater postural stability questionnaire scores (PSQ) (p < .001). Compared to controller steering, physical steering resulted in significantly greater total movement (TM) and MV, including TMX, TMY, MVX, and MVY (all p < .001). Physical steering also led to higher BMC (p < .001), greater PSQ scores (p < .001), and increased virtual embodiment questionnaire (VEQ) scores—specifically for ownership (p = .002) and agency (p < .001). These findings suggest that the choice of locomotion and steering methods in VR should be carefully tailored to the intended application, with designers considering the trade-offs associated with UPD.",
+					"abstract_source": "https://www.sciencedirect.com/science/article/pii/S0003687025001887",
 					"keyword": [
 						"Virtual reality",
 						"Locomotion",
@@ -237,7 +244,8 @@
 					"rate": "",
 					"toappear": "",
 					"award": "",
-					"abstract": "",
+					"abstract": "Virtual reality (VR) gaming offers uniquely immersive experiences but poses challenges due to its complexity and novelty. This study explores how both hedonic (e.g., immersion, presence) and pragmatic (e.g., discomfort, control) user experience (UX) dimensions affect user satisfaction. Using over 350,000 Steam.com reviews, we developed a new sentiment analysis method combining zero-shot classification and a fine-tuned RoBERTa model. Results show all UX dimensions are positively linked to satisfaction, but their impact varies by gaming experience of users. General gaming experience strengthens the effect of hedonic dimensions, while game-specific experience diminishes the effect of all UX dimensions. Moreover, users with general experience mention all UX dimensions more frequently, whereas those with game-specific experience emphasize hedonic over pragmatic aspects. These findings reveal how different types of gaming experience shape the perception and evaluation of VR UX.",
+					"abstract_source": "https://www.tandfonline.com/doi/full/10.1080/10447318.2025.2527839",
 					"keyword": [
 						"Virtual reality",
 						"user experience (UX)",
@@ -266,7 +274,8 @@
 					"rate": "",
 					"toappear": "",
 					"award": "",
-					"abstract": "",
+					"abstract": "In today’s academic scenario, understanding learners’ emotional responses during academic learning is important to improve learning ability. This study provides a comparative analysis of facial emotions from interactions with both real human (RH) and virtual human (VH) in the context of online academic learning. Facial video data were collected from participants engaged in both RH and VH learning sessions. Facial landmarks were extracted using the MediaPipe Face Mesh model and six emotional states were mapped from computed action unit (AU) scores. A convolutional neural network (CNN) was trained on the FER-2013 and extended CK+ datasets to classify six facial emotional states from the acquired dataset. Emotion intensity was computed based on AU scores for each detected state. Results revealed that happiness and surprise intensities were significantly higher during VH interactions compared to RH. An ANOVA test confirmed statistically significant differences in emotional intensity between RH and VH interactions.",
+					"abstract_source": "https://www.tandfonline.com/doi/abs/10.1080/10447318.2025.2512526",
 					"keyword": [
 						"Virtual Human",
 						"emotion analysis",
@@ -294,7 +303,8 @@
 					"rate": "",
 					"toappear": "",
 					"award": "",
-					"abstract": "",
+					"abstract": "Users frequently encounter multimodal systems and make decisions regarding the most suitable modality for a given task. This study examines users' modality selection in multimodal systems, focusing on the features and menu structures of available modalities. Modality selection tasks that considered the number of touches, syllables per touch (S/T), and menu structure were presented to participants. Binomial logistic regression analysis revealed that S/T and menu structure significantly predicted modality selection. The voice modality was predominantly chosen when S/T ranged from 2 to 3 in non-hierarchical tasks and 4 to 5 in hierarchical tasks. In contrast, the number of touches did not significantly predict modality selection. Additionally, modality features and menu structure significantly influenced interaction effort, including both physical and mental dimensions. This study identified modality switching points by evaluating the interaction effort associated with voice and touch modalities.\n\nPractitioner Summary: This study identifies key factors - syllables per touch and menu structure - affecting touch and voice modality preferences in multimodal systems. Hierarchical tasks significantly influence the switching point. The findings provide a framework for designing adaptive interfaces that enhance usability and reduce interaction effort.",
+					"abstract_source": "https://pubmed.ncbi.nlm.nih.gov/40347122/",
 					"keyword": [
 						"Voice interaction",
 						"multimodal interface",
@@ -323,7 +333,8 @@
 					"rate": "",
 					"toappear": "",
 					"award": "",
-					"abstract": "",
+					"abstract": "Large language models (LLMs) are widely used for personalized tasks involving sensitive information, raising privacy concerns. While anonymization techniques exist, their impact on response quality remains underexplored. This paper introduces a fully automated evaluation framework to assess anonymization strategies in LLM-generated responses.\nWe generate synthetic prompts for three personal tasks—personal introductions, cover letters, and email writing—and apply anonymization techniques that preserve fluency while enabling entity backmapping. We test three anonymization strategies: simple masking, adding context to masked entities, and pseudonymization. Results show minimal response quality loss (roughly 1 point on a 10-point scale) while achieving 97%-99% entity masking.\nResponses generated with Llama 3.3:70b perform best with simple entity masking, while GPT-4o benefits from contextual cues. This study provides a framework and empirical insights into balancing privacy protection and response quality in LLM applications.",
+					"abstract_source": "https://aclanthology.org/2025.privatenlp-main.3/",
 					"keyword": [
 						"LLM",
 						"Privacy",
@@ -357,7 +368,8 @@
 					"rate": "",
 					"toappear": "",
 					"award": "",
-					"abstract": "",
+					"abstract": "This study investigated the effects of the target size and movement distance on user performance and workload in a virtual reality (VR) environment. In a repeated-measures laboratory study, 36 participants (18 male and 18 female) performed the drag-and-drop task as a standard human–computer interaction (HCI) task with different target sizes (1, 1.5, 2, 2.5, and 3 cm) and movement distances (5, 9, 13, 17, and 20 cm). Task completion time (TCT), error rate, and movement time (MT) were measured as performance indices, whereas physical load and effort were assessed as workload indices. The results demonstrated that the target size and movement distance significantly affected all performance measures and workload indices. Large target sizes produced better performance and lower workloads; however, large movement distances decreased performance and increased workload. However, sex had no significant effect on the performance or workload during the drag-and-drop tasks. The best target sizes were 2.5 and 3 cm, and the worst size was 1 cm. The best movement distances were 5 and 9 cm, and the worst distance was 20 cm. The results of this study can provide useful reference information for developing VR technology based on human factors and demonstrate that additional basic research is required to reflect the distinctive features of VR in the future.",
+					"abstract_source": "https://www.tandfonline.com/doi/full/10.1080/10447318.2023.2276531",
 					"keyword": [
 						"Virtual reality",
 						"drag-and-drop",
@@ -389,7 +401,8 @@
 					"rate": "",
 					"toappear": "",
 					"award": "",
-					"abstract": "",
+					"abstract": "Artificial intelligence-powered coding assistants (AI-CAs) have become essential tools in programming; however, there is limited understanding of the mechanisms driving programmers’ adoption of these tools in their daily coding tasks. This study aims to examine the role of utilitarian and hedonic values in the adoption of AI-CAs by extending the Technology Acceptance Model (TAM). The data gathered from an online survey of 283 Korean programmers is analyzed using structural equation modeling. The results showed that both perceived enjoyment and perceived usefulness positively influence the attitudes and usage intentions toward AI-CAs. Interestingly, perceived enjoyment has a stronger influence on the intention to use than perceived usefulness, suggesting that recognizing the intrinsic motivation for using AI-CAs is crucial for fully leveraging their benefits.",
+					"abstract_source": "https://www.tandfonline.com/doi/full/10.1080/10447318.2024.2375701",
 					"keyword": [
 						"Artificial intelligence coding assistant (AI-CA)",
 						"technology adoption",
@@ -419,7 +432,8 @@
 					"rate": "",
 					"toappear": "",
 					"award": "",
-					"abstract": "",
+					"abstract": "Augmented reality (AR) environments are emerging as prominent user interfaces and gathering significant attention. However, the associated physical strain on the users presents a considerable challenge. Within this background, this study explores the impact of movement distance (MD) and target-to-user distance (TTU) on the physical load during drag-and-drop (DND) tasks in an AR environment. To address this objective, a user experiment was conducted utilizing a 5× 5 within-subject design with MD (16, 32, 48, 64, and 80 cm) and TTU (40, 80, 120, 160, and 200 cm) as the variables. Physical load was assessed using normalized electromyography (NEMG) (%MVC) indicators of the upper extremity muscles and the physical item of NASA-Task load index (TLX). The results revealed significant variations in the physical load based on MD and TTU. Specifically, both the NEMG and subjective physical workload values increased with increasing MD. Moreover, NEMG increased with decreasing TTU, whereas the subjective physical workload scores increased with increasing TTU. Interaction effects of MD and TTU on NEMG were also significantly observed. These findings suggest that considering the MD and TTU when developing content for interacting with AR objects in AR environments could potentially alleviate user load.",
+					"abstract_source": "https://pubmed.ncbi.nlm.nih.gov/38964218/",
 					"keyword": [
 						"Augmented reality",
 						"Drag-and-drop task",
@@ -450,7 +464,8 @@
 					"rate": "",
 					"toappear": "",
 					"award": "",
-					"abstract": "",
+					"abstract": "In virtual reality (VR) environments, users interact with objects using mid-air gestures; drag-and-drop (DND) is one of the most frequently performed tasks. However, few studies have considered the characteristics of VR and the interaction behavior of DND. This study aimed to investigate the interaction behavior of DND in a VR environment using the Oculus Quest 2 system by controlling the target width, movement amplitude, and movement direction. A DND task in VR has three phases: acceleration, deceleration, and correction. We observed that the target width, movement amplitude, and movement direction had a significant effect on the three phases of DND behavior. The effects were different for each behavioral phase, and an in-depth interaction analysis was conducted through the segmentation of behavior and consideration of vertical movement. These findings can contribute to the evaluation of work performance and interaction correction techniques in VR environments.",
+					"abstract_source": "https://www.tandfonline.com/doi/abs/10.1080/10447318.2024.2342085",
 					"keyword": [
 						"Virtual reality",
 						"drag-and-drop",
@@ -484,7 +499,8 @@
 					"rate": "",
 					"toappear": "",
 					"award": "",
-					"abstract": "",
+					"abstract": "Users often select different modalities in multimodal systems based on context and function. This study aimed to investigate the impact of context on users’ modality selection in a multimodal system. A modality selection task was presented through the developed multimodal system, where the task’s difficulty was controlled based on the number of syllables and touches. The experiments were examined in four usage contexts (baseline, watching, reading, and driving), and the selected modality, physical and mental effort, and satisfaction were measured. A regression model for predicting modality selection was established using binomial logistic regression. The results showed that voice usage increased in the order of baseline, watching, reading, and driving contexts. It was revealed that these changes were attributable to differences in physical and mental interaction efforts of modalities according to contexts. Our finding provides valuable insights into users’ modality selection in different contexts, which could inform the design of more efficient multimodal systems.",
+					"abstract_source": "https://www.tandfonline.com/doi/abs/10.1080/10447318.2023.2250606",
 					"keyword": "multimodal",
 					"materials": [
 						{
@@ -508,7 +524,8 @@
 					"rate": "",
 					"toappear": "",
 					"award": "",
-					"abstract": "",
+					"abstract": "The purpose of this study was to explore the unit of information and the size of the unit for designing a voice user interface. Through two experiments, this study investigated what form the information (the unit of information) should take and what size of that (the size of unit) should be when people were provided information by voice interfaces. Participants were presented with a task to recall (OX quiz) by listening to and remembering information (based on an encyclopedia) provided by smart speakers. In Experiment 1, it was revealed that participants stored information in their memory span on a sentence-by-sentences basis to determine how much information they could remember. In Experiment 2, sentence-based information was presented in various sizes, and participants evaluated 17 information units consisting of up to nine words as their memory limit. This information unit-based voice interface design could help improve users’ memory performance and usability.",
+					"abstract_source": "https://www.tandfonline.com/doi/abs/10.1080/10447318.2023.2179214",
 					"keyword": "",
 					"materials": [
 						{
@@ -532,7 +549,8 @@
 					"rate": "",
 					"toappear": "",
 					"award": "",
-					"abstract": "",
+					"abstract": "As an agent delivers content during the communication between an artificial intelligence (AI) machine and a person, the voice of the agent is a crucial factor to be considered. Particularly in the fields of eHealth, the perception of users toward an agent is crucial as it significantly affects the communication between the agent and its patients, as well as the treatment results. Thus, this study examined the effects of the voice of an agent on the perception of users toward the agent and its counseling effects. This study developed a psychological counseling agent with four voices according to gender and age, communicated with the subjects through such agent, and measured the perception of users toward the agent and its counseling effects through a questionnaire. Results demonstrated that the female-voiced agent had a higher level of attractiveness than the male-voiced agent, regardless of the age of such voice, and the agent using an older voice had a higher level of expertness and depth than the agent using a younger voice, regardless of the gender of such voice. The findings of this study are expected to be effectively used to design a voice-based AI agent that considers the optimal voice according to the purpose of use.",
+					"abstract_source": "https://doi.org/10.3390/app11072893",
 					"keyword": "",
 					"materials": [
 						{
@@ -556,7 +574,8 @@
 					"rate": "",
 					"toappear": "",
 					"award": "",
-					"abstract": "",
+					"abstract": "Technology development and information communication have led to an in-crease of human-agent communication and provided an opportunity to overcome the ex-isting limitation human-human communication. Psychological counseling studies suggest conventional face-to-face counseling method can replace the role of a counselor by ap-plying agent technology. The present study has been established to identify the effects of empathy in human-agent interaction. In order to do so, we designed and conducted a pilot study of a prototype of counseling conversation based on psychological counseling theory. We have found that empathic agents resulted in lower score on counselor’s as-sessment and lower level of empathy perceived by the subjects. The simple empathy used in this study may have given the participants a sense of imitating a clumsy human be-ing and have caused a higher level of displeasure and discomfort compared to the agents without empathy response. This study is meaningful in that it provides basic data for developing and improving an artificial intelligence-based psychological counseling system by designing artificial intelligence counseling agents and varying levels of empathy.",
+					"abstract_source": "https://yonsei.elsevierpure.com/en/publications/the-effect-of-empathy-on-human-agent-interaction/",
 					"keyword": "",
 					"materials": [
 						{
@@ -580,7 +599,8 @@
 					"rate": "",
 					"toappear": "",
 					"award": "",
-					"abstract": "",
+					"abstract": "The objective of this study was to investigate the touch area that can be comfortably reached by the thumb during one-handed smartphone interaction. To achieve the research objective, we introduced the concept of natural thumb position when designing a tapping task and conducted an user experiment. The independent variables were the target distance and direction from the natural thumb position, and the three dependent variables were the task performance, information throughput, and touch accuracy. The results showed that participants performed the task comfortably in the diagonal direction between the upper right and the lower left side of the screen. The task performance deteriorated as the target distance increased, especially at 45 mm or more. The touch accuracy was measured using X- and Y-coordinates data. Participants touched the left side of the target center, except near the proximal area of the hand. They also touched the points above the center of the target in the upper screen area and points below the center of the target in the lower screen area. The findings of this study provided insights for designing a smartphone touch interface considering the comfortable touch areas of one-handed interaction.",
+					"abstract_source": "https://www.tandfonline.com/doi/abs/10.1080/10447318.2018.1554320",
 					"keyword": "",
 					"materials": [
 						{
@@ -606,7 +626,8 @@
 					"rate": "",
 					"toappear": "",
 					"award": "",
-					"abstract": "",
+					"abstract": "This study aimed at investigating the effect of two smartphone form factors (width and bottom bezel) on touch behaviors with one-handed interaction. User experiments on tapping tasks were conducted for four widths (67, 70, 72, and 74 mm) and five bottom bezel levels (2.5, 5, 7.5, 10, and 12.5 mm). Task performance, electromyography, and subjective workload data were collected to examine the touch behavior. The success rate and task completion time were collected as task performance measures. The NASA-TLX method was used to observe the subjective workload. The electromyogram signals of two thumb muscles, namely the first dorsal interosseous and abductor pollicis brevis, were observed. The task performances deteriorated with increasing width level. The subjective workload and electromyography data showed similar patterns with the task performances. The task performances of the bottom bezel devices were analyzed by using three different evaluation criteria. The results from these criteria indicated that tasks became increasingly difficult as the bottom bezel level decreased. The results of this study provide insights into the optimal range of smartphone form factors for one-handed interaction, which could contribute to the design of new smartphones.",
+					"abstract_source": "https://pubmed.ncbi.nlm.nih.gov/29122185/",
 					"keyword": "",
 					"materials": [
 						{
@@ -631,7 +652,8 @@
 					"rate": "",
 					"toappear": "",
 					"award": "",
-					"abstract": "",
+					"abstract": "The purpose of this study is to investigate the effect of edge display of smartphone on thumb muscles activity of smartphone users. Sixty-six participants between 20 and 39 years were recruited in the experiment. Participants performed the two tasks which were touch and swipe, which were the most used tasks in smartphone. The independent variable was a smartphone display type (flat display, edge display). The experiment was conducted using a commercially available smartphone. Participants performed the tasks with two size of smartphone while walking or sitting. For checking muscles activity, we attached the surface electromyography (EMG) device to the subjects’ hands (especially their thumbs). Two muscles, the first dorsal interosseous (FDI) and the abductor pollicis brevis (APB), were chosen for this study. The results showed that only FDI muscles activity of the edge display smartphone was higher than that of the flat display smartphone, especially in big size smartphone conditions. This excessive muscle activity while using the edge display smartphone can cause musculoskeletal disorders to the user. This study suggests that the smartphone, which is a device that repeats the same thing over and over again, should be designed to decrease user muscle stress.",
+					"abstract_source": "https://www.jstage.jst.go.jp/article/jje/53/Supplement2/53_S672/_article",
 					"keyword": "",
 					"materials": [
 						{
